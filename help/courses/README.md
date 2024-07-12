@@ -5,6 +5,6 @@ source-wordcount: '20'
 ht-degree: 0%
 
 ---
-# Guías de Adobe Experience Manager
+# Adobe Experience Manager Guides
 
-AEM Este es el repositorio para almacenar los vídeos y los archivos de marcado de los cursos de &quot;Guías de&quot;.
+Este es el repositorio para almacenar los vídeos y los archivos de marcado de los cursos de &quot;AEM Guides&quot;.

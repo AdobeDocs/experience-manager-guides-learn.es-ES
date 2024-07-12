@@ -1,10 +1,10 @@
 ---
 title: Perfiles de carpeta
-description: AEM Creaciones y uso de perfiles de carpeta para guías de
+description: Creación y uso de perfiles de carpeta para AEM Guides
 exl-id: 5a0daa68-51ae-42d0-8320-6e8bdb1fe545
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
-source-wordcount: '913'
+source-wordcount: '914'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 AEM proporciona un acceso rápido a las herramientas de configuración. Al personalizar los Perfiles de carpeta, los distintos departamentos o productos pueden tener plantillas únicas, entornos de creación, perfiles de atributos condicionales, Fragmentos de código o incluso configuraciones de Editor web.
 
-En el archivo se proporcionan archivos de ejemplo que puede optar por utilizar para esta lección [folderprofiles.zip](assets/folderprofiles.zip).
+Los archivos de muestra que decida usar para esta lección se proporcionan en el archivo [folderprofiles.zip](assets/folderprofiles.zip).
 
 >[!VIDEO](https://video.tv.adobe.com/v/342758?quality=12&learn=on)
 
@@ -21,13 +21,13 @@ En el archivo se proporcionan archivos de ejemplo que puede optar por utilizar p
 
 Las configuraciones se administran mediante el icono Perfiles de carpeta.
 
-1. En la pantalla de navegación, haga clic en el botón [!UICONTROL **Herramientas**] icono.
+1. En la pantalla Navegación, haga clic en el icono [!UICONTROL **Herramientas**].
 
-   ![Icono Herramientas](images/reuse/tools-icon.png)
+   ![Icono de herramientas](images/reuse/tools-icon.png)
 
-1. Seleccionar **Guías** en el panel izquierdo.
+1. Seleccione **Guías** en el panel izquierdo.
 
-1. Haga clic en [!UICONTROL **Perfiles de carpeta**] mosaico.
+1. Haga clic en el mosaico [!UICONTROL **Perfiles de carpeta**].
 
    ![Perfiles de carpeta](images/reuse/folder-profiles-tile.png)
 
@@ -39,32 +39,32 @@ Las configuraciones se administran mediante el icono Perfiles de carpeta.
 
 Una vez que haya accedido al Perfil global, puede editar su configuración. La configuración del Perfil global se aplica a todos los usuarios a menos que se especifique lo contrario.
 
-1. En el Perfil global, seleccione la opción **Atributos condicionales** pestaña.
+1. En el Perfil global, seleccione la ficha **Atributos condicionales**.
 
-1. Clic [!UICONTROL **Editar**] en la esquina superior izquierda de la pantalla.
+1. Haga clic en [!UICONTROL **Editar**] en la esquina superior izquierda de la pantalla.
 
    ![Atributos condicionales](images/lesson-3/edit-conditional-attributes.png)
 
-1. Clic [!UICONTROL **Añadir**].
+1. Haga clic en [!UICONTROL **Agregar**].
 
-1. Rellene el **Nombre**, **Valor**, y **Etiqueta** campos para la nueva condición.
+1. Rellene los campos **Nombre**, **Valor** y **Etiqueta** para la nueva condición.
 
-   ![condición nueva](images/lesson-3/new-condition.png)
+   ![nueva condición](images/lesson-3/new-condition.png)
 
-1. Clic [!UICONTROL **Guardar**] en la esquina superior izquierda de la pantalla.
+1. Haz clic en [!UICONTROL **Guardar**] en la esquina superior izquierda de la pantalla.
 La nueva condición ya está disponible para todos los usuarios. Puede seleccionarlo en el panel Propiedades del contenido y aplicarlo al contenido según sea necesario.
 
 ## Crear un nuevo perfil de carpeta
 
 Además del Perfil global predeterminado, puede crear sus propios perfiles personalizados.
 
-1. En la pantalla de navegación, haga clic en el botón [!UICONTROL **Herramientas**] icono.
+1. En la pantalla Navegación, haga clic en el icono [!UICONTROL **Herramientas**].
 
-   ![Icono Herramientas](images/reuse/tools-icon.png)
+   ![Icono de herramientas](images/reuse/tools-icon.png)
 
-1. Seleccionar **Guías** en el panel izquierdo.
+1. Seleccione **Guías** en el panel izquierdo.
 
-1. Haga clic en [!UICONTROL **Perfiles de carpeta**] mosaico.
+1. Haga clic en el mosaico [!UICONTROL **Perfiles de carpeta**].
 
    ![Perfiles de carpeta](images/reuse/folder-profiles-tile.png)
 
@@ -76,7 +76,7 @@ Además del Perfil global predeterminado, puede crear sus propios perfiles perso
 
    b. Especifique una ruta.
 
-   c. Haga clic [!UICONTROL **Crear**].
+   c. Haga clic en [!UICONTROL **Crear**].
 
    ![Crear perfil de carpeta](images/lesson-3/create-folder-profile.png)
 
@@ -90,19 +90,19 @@ Los usuarios administrativos tienen derechos para actualizar los Atributos condi
 
    ![Editar perfil de carpeta](images/lesson-3/edit-folder-profile.png)
 
-1. Seleccione el **General** pestaña.
+1. Seleccione la ficha **General**.
 
-1. Clic [!UICONTROL **Editar**] en la parte superior izquierda de la pantalla.
+1. Haga clic en [!UICONTROL **Editar**] en la parte superior izquierda de la pantalla.
 
 1. En Usuarios administradores, seleccione un usuario de la lista desplegable o escriba un nombre de usuario.
 
-1. Clic [!UICONTROL **Añadir**].
+1. Haga clic en [!UICONTROL **Agregar**].
 
    Si es necesario, puede agregar varios usuarios administradores.
 
-   ![Añadir administrador](images/lesson-3/add-admin.png)
+   ![Agregar administrador](images/lesson-3/add-admin.png)
 
-1. Clic [!UICONTROL **Guardar**] en la esquina superior derecha de la pantalla cuando se hayan agregado todos los usuarios.
+1. Haga clic en [!UICONTROL **Guardar**] en la esquina superior derecha de la pantalla cuando se hayan agregado todos los usuarios.
 
 Los usuarios administrativos ahora están asignados a este perfil.
 
@@ -110,27 +110,27 @@ Los usuarios administrativos ahora están asignados a este perfil.
 
 Una vez que haya accedido al Perfil global, puede editar su configuración. La configuración del Perfil global se aplica a todos los usuarios a menos que se especifique lo contrario.
 
-1. En el perfil de carpeta deseado, seleccione la **Atributos condicionales** pestaña.
+1. En el perfil de carpeta deseado, seleccione la ficha **Atributos condicionales**.
 
-1. Clic [!UICONTROL **Editar**] en la esquina superior izquierda de la pantalla.
+1. Haga clic en [!UICONTROL **Editar**] en la esquina superior izquierda de la pantalla.
 
    ![Editar atributos condicionales 2](images/lesson-3/edit-conditional-attributes-2.png)
 
-1. Clic [!UICONTROL **Añadir**].
+1. Haga clic en [!UICONTROL **Agregar**].
 
-1. Rellene el **Nombre**, **Valor**, y **Etiqueta** campos para la nueva condición.
+1. Rellene los campos **Nombre**, **Valor** y **Etiqueta** para la nueva condición.
 
-   Haciendo clic en [!UICONTROL **Plus**] Este signo le permite agregar pares adicionales de Valor y Etiqueta para el atributo con nombre.
+   Si hace clic en el signo [!UICONTROL **Más**], podrá agregar pares de Valor y Etiqueta adicionales para el atributo con nombre.
 
    ![Agregar condiciones](images/lesson-3/add-conditions.png)
 
-1. Clic [!UICONTROL **Guardar**] en la esquina superior izquierda de la pantalla.
+1. Haz clic en [!UICONTROL **Guardar**] en la esquina superior izquierda de la pantalla.
 
 Los nuevos Atributos condicionales se han agregado a este perfil.
 
 ## Elija una plantilla y asígnela desde la pestaña Crear plantillas
 
-AEM Las guías de la aplicación incluyen plantillas y mapas de creación listos para usar. Puede restringirlas a autores específicos. De forma predeterminada, las plantillas se almacenan en la ubicación Assets dentro de una carpeta de plantillas DITA.
+AEM Guides incluye plantillas y mapas de creación listos para usar. Puede restringirlas a autores específicos. De forma predeterminada, las plantillas se almacenan en la ubicación de Assets, dentro de una carpeta de plantillas DITA.
 
 1. En el perfil de carpeta deseado, seleccione la pestaña Crear plantillas.
 
@@ -138,19 +138,19 @@ AEM Las guías de la aplicación incluyen plantillas y mapas de creación listos
 
 1. Añada una plantilla de mapa.
 
-   a. Desde el **Plantillas de mapa** , seleccione una opción de las asignaciones disponibles.
+   a. En el menú desplegable **Plantillas de mapa**, seleccione una opción de las asignaciones disponibles.
 
-   b. Haga clic en [!UICONTROL **Añadir**].
+   b. Haga clic en [!UICONTROL **Agregar**].
 
    ![Plantillas de mapa](images/lesson-3/map-templates.png)
 
 1. Agregar una plantilla de tema.
 
-   a. Desde el **Plantillas de temas** , seleccione una opción de las plantillas disponibles.
+   a. En el menú desplegable **Plantillas de temas**, seleccione una opción de las plantillas disponibles.
 
    ![Plantillas de temas](images/lesson-3/topic-templates.png)
 
-1. Clic [!UICONTROL **Añadir**].
+1. Haga clic en [!UICONTROL **Agregar**].
 
 1. Añada plantillas de temas adicionales según sea necesario.
 
@@ -162,15 +162,15 @@ Las nuevas plantillas de creación se han añadido a este perfil.
 
 Puede configurar cada ajuste preestablecido de salida en función del perfil de carpeta. Deben eliminarse los ajustes preestablecidos de salida que no son necesarios.
 
-1. En el perfil de carpeta deseado, seleccione la **Valores de salida** pestaña.
+1. En el perfil de carpeta deseado, seleccione la ficha **Ajustes preestablecidos de salida**.
 
 1. En el panel izquierdo, seleccione las casillas de verificación de los ajustes preestablecidos que no sean necesarios.
 
    ![Eliminar ajustes preestablecidos](images/lesson-3/delete-presets.png)
 
-1. Clic [!UICONTROL **Eliminar ajuste preestablecido**] en la esquina superior izquierda de la pantalla.
+1. Haga clic en [!UICONTROL **Eliminar ajuste preestablecido**] en la esquina superior izquierda de la pantalla.
 
-1. En el cuadro de diálogo Eliminar ajuste preestablecido, haga clic en [!UICONTROL **Eliminar**].
+1. En el diálogo Eliminar ajuste preestablecido, haga clic en [!UICONTROL **Eliminar**].
 
    ![Eliminar](images/lesson-3/delete.png)
 
@@ -178,17 +178,17 @@ Ahora los únicos ajustes preestablecidos de salida que se muestran son los que 
 
 ## Cargar un fragmento de código desde la pestaña Configuración del Editor XML
 
-1. En el perfil de carpeta deseado, seleccione la **Configuración del editor XML** pestaña.
+1. En el perfil de carpeta deseado, seleccione la ficha **Configuración del editor XML**.
 
 1. En Fragmentos del editor XML, haga clic en [!UICONTROL **Cargar**].
 
-   ![Cargar fragmento de código](images/lesson-3/upload-snippet.png)
+   ![Cargar fragmento](images/lesson-3/upload-snippet.png)
 
 1. Vaya a un fragmento creado anteriormente.
 
-1. Clic [!UICONTROL **Abrir**].
+1. Haga clic en [!UICONTROL **Abrir**].
 
-1. Clic [!UICONTROL **Guardar**] en la parte superior izquierda de la pantalla.
+1. Haz clic en [!UICONTROL **Guardar**] en la parte superior izquierda de la pantalla.
 
 Ha modificado correctamente la configuración del editor para incluir fragmentos de código.
 
@@ -200,7 +200,7 @@ En el Editor, puede ver los resultados de las modificaciones realizadas en los P
 
 1. Haga clic en la carpeta del contenido con el que desee trabajar.
 
-1. Haga clic en [!UICONTROL **Preferencias de usuario**] en la barra de herramientas superior.
+1. Haga clic en el icono [!UICONTROL **Preferencias de usuario**] de la barra de herramientas superior.
 
    ![Preferencias de usuario](images/lesson-3/hr-user-prefs.png)
 

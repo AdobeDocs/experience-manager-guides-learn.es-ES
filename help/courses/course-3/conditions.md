@@ -5,7 +5,7 @@ exl-id: 2cb670d9-1a22-47c6-8409-52d1d526010a
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
 source-wordcount: '497'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
@@ -13,19 +13,19 @@ ht-degree: 2%
 
 En DITA, las condiciones suelen depender de atributos como Producto, Plataforma y Audiencia. También pueden tener valores específicos asignados a ellos. Los usuarios pueden controlar todo esto a través de Perfiles de carpeta.
 
-En el archivo se proporcionan archivos de ejemplo que puede optar por utilizar para esta lección [conditions.zip](assets/conditions.zip).
+Los archivos de muestra que decida usar para esta lección se proporcionan en el archivo [conditions.zip](assets/conditions.zip).
 
 >[!VIDEO](https://video.tv.adobe.com/v/342755?quality=12&learn=on)
 
 ## Asignar condiciones a un perfil de carpeta
 
-1. Seleccione el **Perfiles de carpeta** mosaico.
+1. Seleccione el mosaico **Perfiles de carpeta**.
 
-1. Clic [!UICONTROL **Atributos condicionales**].
+1. Haga clic en [!UICONTROL **Atributos condicionales**].
 
-1. Clic [!UICONTROL **Editar**] en la esquina superior izquierda del perfil.
+1. Haga clic en [!UICONTROL **Editar**] en la esquina superior izquierda del perfil.
 
-1. Clic [!UICONTROL **Añadir**].
+1. Haga clic en [!UICONTROL **Agregar**].
 
    ![Condiciones en los perfiles de carpeta](images/lesson-13/add-name.png)
 
@@ -47,13 +47,13 @@ En el archivo se proporcionan archivos de ejemplo que puede optar por utilizar p
 
 Si no se ha asignado ningún perfil de carpeta personalizado a un concepto, es posible que desee asignar atributos a elementos específicos, como párrafos.
 
-1. Desde el **Vista de repositorio**, haga clic en el elemento con el que desee trabajar para seleccionarlo.
+1. En la **vista de repositorio**, haga clic en el elemento con el que desee trabajar para seleccionarlo.
 
-1. En el **Propiedades del contenido** , haga clic en el [!UICONTROL **Atributo**] desplegable.
+1. En el panel **Propiedades de contenido**, haga clic en la lista desplegable [!UICONTROL **Atributo**].
 
 1. Elija el atributo que desea asignar.
 
-1. Añadir un **Valor**.
+1. Agregar un **valor**.
 
 El emparejamiento de atributo y valor ahora se asigna al elemento seleccionado.
 
@@ -61,17 +61,17 @@ El emparejamiento de atributo y valor ahora se asigna al elemento seleccionado.
 
 El panel Condiciones permite la asignación controlada de emparejamientos de atributos y valores.
 
-1. Modifique la **Preferencias de usuario**.
+1. Modificar las **Preferencias de usuario**.
 
    a. Haga clic en el icono Preferencias de usuario.
 
    ![Icono de preferencias de usuario](images/lesson-13/user-prefs-icon.png)
 
-   b. Rellene los campos obligatorios en la **Preferencias de usuario** diálogo. Por ejemplo:
+   b. Rellene los campos obligatorios en el cuadro de diálogo **Preferencias de usuario**. Por ejemplo:
 
    ![Preferencias de usuario](images/lesson-13/user-preferences.png)
 
-   c. Haga clic [!UICONTROL **Guardar**].
+   c. Haz clic en [!UICONTROL **Guardar**].
 
 1. En el panel de condiciones, expanda los desplegables de Audience and Platform. Tenga en cuenta que las condiciones disponibles son específicas del perfil de la carpeta.
 
@@ -81,25 +81,25 @@ El panel Condiciones permite la asignación controlada de emparejamientos de atr
 
 Los mapas de esquema de asunto son una forma especializada de mapa de datos y se hace referencia a ellos mediante un mapa. Los esquemas de asunto se utilizan para definir taxonomías. Permiten controlar los valores disponibles.
 
-1. Vaya a **Vista de repositorio**.
+1. Vaya a la **vista de repositorio**.
 
-1. Seleccione un mapa que haga referencia al diagrama de esquema de asunto. Este ejemplo utiliza el mapa llamado _Diseño y diseño_.
+1. Seleccione un mapa que haga referencia al diagrama de esquema de asunto. Este ejemplo usa el mapa denominado _Diseño y diseño_.
 
    ![Preferencias de usuario](images/lesson-13/subject-scheme-map.png)
 
 1. Configure las preferencias de usuario.
 
-   a. Haga clic en [!UICONTROL **Preferencias de usuario**] icono.
+   a. Haga clic en el icono [!UICONTROL **Preferencias de usuario**].
 
    ![Preferencias de usuario](images/lesson-13/user-prefs-icon-2.png)
 
-   b. Rellene los campos en la variable **Preferencias de usuario** diálogo.
+   b. Rellene los campos en el cuadro de diálogo **Preferencias de usuario**.
 
    c. Haga clic en el símbolo de carpeta junto al campo Ruta base para elegir la ruta del archivo deseado.
 
-   d. Haga clic [!UICONTROL **Seleccionar**].
+   d. Haga clic en [!UICONTROL **Seleccionar**].
 
-   e. Haga clic en el símbolo de tecla situado junto al **Mapa raíz** para introducir una ruta.
+   e. Haga clic en el símbolo de clave situado junto al campo **Mapa raíz** para escribir una ruta de acceso.
 
    >[!IMPORTANT]
    >
@@ -109,9 +109,9 @@ Los mapas de esquema de asunto son una forma especializada de mapa de datos y se
 
    f. Restrinja los recursos mostrados seleccionando las carpetas que desee utilizar.
 
-   g. Haga clic [!UICONTROL **Seleccionar**].
+   g. Haga clic en [!UICONTROL **Seleccionar**].
 
-   h. Haga clic [!UICONTROL **Guardar**].
+   h. Haz clic en [!UICONTROL **Guardar**].
 
 Se ha asignado el esquema de asunto.
 
@@ -119,6 +119,6 @@ Se ha asignado el esquema de asunto.
 
 1. Vaya a **Configuración del editor**.
 
-1. Seleccione el **Condiciones** pestaña.
+1. Seleccione la ficha **Condiciones**.
 
 1. Marque la casilla **Mostrar esquema de asunto en el panel Condiciones**

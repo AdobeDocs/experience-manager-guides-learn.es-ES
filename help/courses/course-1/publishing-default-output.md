@@ -1,6 +1,6 @@
 ---
-title: AEM Publicación de resultados predeterminados en las guías de
-description: Publicación de la salida predeterminada en [!DNL Adobe Experience Manager Guides]
+title: Publicación de la salida predeterminada en AEM Guides
+description: Publicando salida predeterminada en  [!DNL Adobe Experience Manager Guides]
 exl-id: 97a259dd-4266-4a7b-8677-3fa261714687
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -19,7 +19,7 @@ Una vez que haya completado un mapa, puede publicar el contenido en varios forma
 
 Hay una serie de ajustes preestablecidos de salida disponibles para que pueda elegir. AEM Esta guía se centrará en los resultados del sitio de la y del PDF.
 
-1. En el repositorio, seleccione el icono de puntos suspensivos del mapa para abrir el menú Opciones y, a continuación, **Abra en el tablero de mapas.**
+1. En el repositorio, seleccione el icono de puntos suspensivos del mapa para abrir el menú Opciones y, a continuación, **Abrir en el panel de mapas.**
 
    ![Abrir en el tablero de mapas](images/lesson-9/map-dashboard-with-markings.png)
 
@@ -27,9 +27,9 @@ Hay una serie de ajustes preestablecidos de salida disponibles para que pueda el
 
 1. AEM En la pestaña Ajustes preestablecidos de salida, seleccione Sitio y PDF de la selección, respectivamente.
 
-   ![Valores de salida](images/lesson-9/pdf-aem.png)
+   ![Ajustes preestablecidos de salida](images/lesson-9/pdf-aem.png)
 
-1. Seleccionar **Generar.**
+1. Seleccione **Generar.**
 
 1. Vaya a la página Resultados para ver el estado de los resultados generados.
 

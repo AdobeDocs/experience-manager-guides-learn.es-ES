@@ -1,11 +1,11 @@
 ---
 title: Crear y publicar con líneas base
-description: Creación y publicación con líneas de base en [!DNL Adobe Experience Manager Guides]
+description: Crear y publicar con líneas de base en  [!DNL Adobe Experience Manager Guides]
 exl-id: 3c229c30-f2e0-4fb0-b60c-7bae60ef1a5b
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
 source-wordcount: '739'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -19,12 +19,12 @@ El uso de una línea de base permite crear una versión de los temas del mapa y 
 
 Puede acceder a sus líneas de base en el panel de mapas.
 
-1. Vista de repositorio, seleccione el icono de puntos suspensivos del mapa para abrir el menú Opciones y, a continuación, haga clic en **Abra el tablero de mapas.**
+1. Vista de repositorio, seleccione el icono de puntos suspensivos del mapa para abrir el menú Opciones y, a continuación, **Abrir panel de mapa.**
 
-   ![ellipsis-map-dashboard.png](images/ellipsis-map-dashboard.png)
+   ![elipsis-map-dashboard.png](images/ellipsis-map-dashboard.png)
 El tablero de mapas se abre en otra pestaña.
 
-1. Seleccionar **Líneas bases**.
+1. Seleccionar **líneas base**.
 
    ![baseline-tab.png](images/baseline-tab.png)
 
@@ -45,7 +45,7 @@ Se muestra la pestaña Líneas base.
 
    >[!NOTE]
    >
-   >NOTA: La *Usar la última versión si la etiqueta no está presente* La casilla de verificación está seleccionada de forma predeterminada. Si no se selecciona y existen temas o archivos multimedia sin la etiqueta elegida en el mapa, el proceso de creación de Línea base fallará.
+   >NOTA: La casilla de verificación *Usar la última versión si la etiqueta no está presente* está seleccionada de forma predeterminada. Si no se selecciona y existen temas o archivos multimedia sin la etiqueta elegida en el mapa, el proceso de creación de Línea base fallará.
 
 1. Introduzca la etiqueta que desee utilizar.
 
@@ -55,7 +55,7 @@ Se crea la línea base. Se muestra una tabla de todos los temas y su informació
 
 ### Uso de la función Examinar todos los temas
 
-La función Examinar todos los temas permite ver la información del tema, incluida la versión y la etiqueta, así como especificar la versión utilizada. Puede acceder a ella seleccionando **Examinar todos los temas** al crear o editar la línea base.
+La función Examinar todos los temas permite ver la información del tema, incluida la versión y la etiqueta, así como especificar la versión utilizada. Puede acceder a él seleccionando **Examinar todos los temas** al crear o editar su línea de base.
 
 ![browse-all-topics.png](images/browse-all-topics.png)
 
@@ -73,7 +73,7 @@ También puede crear líneas base que sean una instantánea en el tiempo.
 
 1. Seleccione el icono de calendario y especifique la fecha y la hora que desee.
 
-   ![calendar.png](images/calendar.png)
+   ![calendario.png](images/calendar.png)
 
 1. Asigne un nombre nuevo a la línea base si es necesario.
 
@@ -87,13 +87,13 @@ Es posible que desee asignar una nueva etiqueta de forma masiva a todo el conten
 
 1. Seleccione la línea de base para la que desea añadir etiquetas.
 
-1. Seleccionar **Añadir etiquetas**.
+1. Seleccione **Agregar etiquetas**.
 
    ![add-labels.png](images/add-labels.png)
 
    Aparece el cuadro de diálogo Agregar etiqueta.
 
-1. Introduzca la etiqueta que desee asignar y seleccione **Añadir**.
+1. Escriba la etiqueta que desee asignar y seleccione **Agregar**.
 
 La etiqueta se ha agregado a todos los temas.
 
@@ -115,11 +115,11 @@ La etiqueta se ha agregado a todos los temas.
 
    ![baseline.png](images/baseline.png)
 
-1. Seleccionar **Listo**.
+1. Seleccione **Listo**.
 
-   ![done.png](images/done.png)
+   ![hecho.png](images/done.png)
 
-1. Seleccionar **Generar**.
+1. Seleccione **Generar**.
 
    ![generate.png](images/generate.png)
 
@@ -136,13 +136,13 @@ La etiqueta se ha agregado a todos los temas.
 
 1. En la pestaña Líneas bases, seleccione la línea base que desee eliminar.
 
-1. Seleccionar **Eliminar**.
+1. Seleccione **Quitar**.
 
    ![remove-baseline.png](images/remove-baseline.png)
 
    Aparece el cuadro de diálogo Quitar línea base.
 
-1. Seleccionar **Eliminar**.
+1. Seleccione **Quitar**.
 
 Se elimina la línea de base.
 
@@ -150,7 +150,7 @@ Se elimina la línea de base.
 
 1. En la pestaña Líneas bases, seleccione la línea base que desea duplicar.
 
-1. Seleccionar **Duplicar**.
+1. Seleccione **Duplicado**.
 
    ![duplicate.png](images/duplicate.png)
 
@@ -169,7 +169,7 @@ Puede especificar directamente la versión de un tema utilizado en una línea de
 
    ![edit-aem.png](images/edit-aem.png)
 
-1. Seleccionar **Examinar todos los temas**.
+1. Seleccione **Examinar Todos Los Temas**.
 
    ![browse-all-topics.png](images/browse-all-topics.png)
 
@@ -202,6 +202,6 @@ En este caso, se crea un ajuste preestablecido de salida basado en una línea de
 
    ![baseline.png](images/baseline.png)
 
-1. Seleccionar **Listo**.
+1. Seleccione **Listo**.
 
 Se ha creado el nuevo ajuste preestablecido de salida, que se muestra en la página Ajustes preestablecidos de salida.

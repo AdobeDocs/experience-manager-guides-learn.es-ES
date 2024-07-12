@@ -1,17 +1,17 @@
 ---
 title: Flujos de trabajo de creación de contenido simples
-description: AEM Creación de contenido en las guías de la
+description: Creación de contenido en AEM Guides
 exl-id: e4b8e512-0688-44f7-b981-78af33b57b08
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
 source-wordcount: '719'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
 # Flujos de trabajo de creación de contenido simple
 
-AEM El Editor de guías de recursos tiene varios métodos abreviados que simplifican el flujo de trabajo de creación de contenido. Estos métodos abreviados permiten a los usuarios agregar y modificar rápidamente imágenes, trabajar con varios temas a la vez, corregir errores, descargar PDF de temas y trabajar con versiones y rótulos.
+El editor de AEM Guides tiene varios métodos abreviados que simplifican el flujo de trabajo de creación de contenido. Estos métodos abreviados permiten a los usuarios agregar y modificar rápidamente imágenes, trabajar con varios temas a la vez, corregir errores, descargar PDF de temas y trabajar con versiones y rótulos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342770?quality=12&learn=on)
 
@@ -19,15 +19,15 @@ AEM El Editor de guías de recursos tiene varios métodos abreviados que simplif
 
 Las imágenes se pueden agregar directamente desde una unidad local.
 
-1. Arrastre y suelte la imagen directamente en el tema. El **Cargar recursos** aparece el cuadro de diálogo.
+1. Arrastre y suelte la imagen directamente en el tema. Aparecerá el cuadro de diálogo **Cargar Assets**.
 
-   ![Cuadro de diálogo Cargar recursos](images/lesson-15/upload-assets-dialog.png)
+   ![Cuadro De Diálogo Cargar Assets](images/lesson-15/upload-assets-dialog.png)
 
 1. Modifique la ruta de la carpeta a la ubicación de imagen deseada.
 
 1. Cambie el nombre de la imagen por algo representativo de su propósito.
 
-1. Haga clic en [!UICONTROL **Cargar**].
+1. Haga clic en [!UICONTROL **Cargar**]. 
 
 ## Modificación de una imagen
 
@@ -35,7 +35,7 @@ Las imágenes se pueden agregar directamente desde una unidad local.
 
 1. Para mover una imagen a otra ubicación dentro del tema, arrástrela y suéltela.
 
-1. Uso **Propiedades del contenido** en el panel lateral derecho para modificar la
+1. Use **Propiedades de contenido** en el panel derecho para modificar las propiedades de una imagen
 
    - desconchar
 
@@ -45,7 +45,7 @@ Las imágenes se pueden agregar directamente desde una unidad local.
 
    - otros atributos.
 
-   ![Propiedades del contenido](images/lesson-15/content-properties.png)
+   ![Propiedades de contenido](images/lesson-15/content-properties.png)
 
 ## Trabajar con varios temas
 
@@ -55,9 +55,9 @@ La vista dividida es útil cuando se comparan temas, se copian y se pegan entre 
 
 1. Haga clic en la pestaña Título de un archivo para abrir el menú contextual.
 
-1. Seleccionar [!UICONTROL **Split**].
+1. Seleccione [!UICONTROL **Split**].
 
-1. Elegir **Derecha**.
+1. Elija **derecho**.
 
    ![Vista dividida](images/lesson-15/split-view.png)
 
@@ -65,7 +65,7 @@ La vista dividida es útil cuando se comparan temas, se copian y se pegan entre 
 
 1. Busque la palabra o frase que contiene el error.
 
-1. Mantener presionado [!UICONTROL **Ctrl**].
+1. Mantenga presionado [!UICONTROL **Ctrl**].
 
 1. Haga clic con el botón secundario del mouse en el error.
 
@@ -77,13 +77,13 @@ El error se ha corregido en el texto del tema.
 
 Es posible que los usuarios deseen descargar un PDF del tema actual para marcar o compartir con otros.
 
-1. Clic [!UICONTROL **Previsualizar**] en la parte superior derecha de la pantalla.
+1. Haga clic en [!UICONTROL **Vista previa**] en la parte superior derecha de la pantalla.
 
-1. Haga clic en [!UICONTROL **Icono de PDF**] sobre el tema. Aparece un cuadro de diálogo.
+1. Haga clic en el [!UICONTROL **PDF**] sobre el tema. Aparecerá un cuadro de diálogo.
 
    ![Exportación de PDF](images/lesson-15/pdf-export.png)
 
-1. Rellene la información para lo siguiente **Nombre de transformación** o **Argumentos de línea de comandos DITA-OT** si es necesario. Tenga en cuenta que un PDF sigue generando si todos los campos se dejan en blanco.
+1. Rellene la información de **Nombre de transformación** o **Argumentos de línea de comandos DITA-OT** si es necesario. Tenga en cuenta que un PDF sigue generando si todos los campos se dejan en blanco.
 
 1. Haga clic en [!UICONTROL **Descargar**]. El PDF genera.
 
@@ -95,9 +95,9 @@ Es posible que los usuarios deseen descargar un PDF del tema actual para marcar 
 
 1. Haga clic con el botón secundario del mouse en la ficha Título.
 
-1. Seleccionar **Localizar en**.
+1. Seleccione **Buscar En**.
 
-1. Elija una de estas opciones **Repositorio** o **Mapa** para ir a la ubicación del tema deseada.
+1. Elija **Repositorio** o **Mapa** para ir a la ubicación del tema que desee.
 
 ## Versión de un tema
 
@@ -105,13 +105,13 @@ Es posible que los usuarios deseen descargar un PDF del tema actual para marcar 
 
 1. Guarde el tema.
 
-1. Haga clic en **Repositorio** en el menú superior izquierdo.
+1. Haga clic en el icono **Repositorio** en el menú superior izquierdo.
 
    ![Icono de repositorio](images/lesson-15/repository-icon.png)
 
 1. En el cuadro de diálogo, agregue **Comentarios para la nueva versión**.
 
-   ![Cuadro de diálogo Nueva versión](images/lesson-15/version-dialog.png)
+   ![Cuadro De Diálogo Nueva Versión](images/lesson-15/version-dialog.png)
 
 1. Haga clic en [!UICONTROL **Guardar**].
 
@@ -121,7 +121,7 @@ El número de versión se actualiza.
 
 Puede resultar difícil intentar rastrear el estado de un tema basándose únicamente en el número de versión. Las etiquetas facilitan la identificación del estado exacto de un tema que ha sufrido varias revisiones.
 
-1. Seleccione una **Perfil de carpeta**.
+1. Seleccione un **perfil de carpeta**.
 
 1. En el Perfil de carpeta, configure el Editor XML.
 
@@ -131,15 +131,15 @@ Puede resultar difícil intentar rastrear el estado de un tema basándose única
 
    ![Etiquetas de versión de contenido](images/lesson-15/version-labels.png)
 
-1. Seleccionar [!UICONTROL **Cargar**].
+1. Seleccione [!UICONTROL **Cargar**].
 
 1. Elija un archivo como ReviewLabels.json o similar. Los detalles sobre cómo crear un archivo de este tipo se tratan en otro vídeo.
 
-1. Clic [!UICONTROL **Abrir**].
+1. Haga clic en [!UICONTROL **Abrir**].
 
-1. Clic [!UICONTROL **Guardar**] en la parte superior izquierda de la pantalla Perfil de carpeta.
+1. Haga clic en [!UICONTROL **Guardar**] en la parte superior izquierda de la pantalla Perfil de carpeta.
 
-1. Clic [!UICONTROL **Cerrar**] en la parte superior derecha.
+1. Haga clic en [!UICONTROL **Cerrar**] en la parte superior derecha.
 
 Las etiquetas de versión ya están cargadas.
 
@@ -147,7 +147,7 @@ Las etiquetas de versión ya están cargadas.
 
 1. Cargue las etiquetas de versión.
 
-1. Haga clic en [!UICONTROL **Preferencias de usuario**] en la parte superior izquierda del tema actual.
+1. Haga clic en el icono [!UICONTROL **Preferencias de usuario**] en la parte superior izquierda del tema actual.
 
    ![Perfil de carpeta](images/lesson-15/folder-profile-icon.png)
 
@@ -163,7 +163,7 @@ Las etiquetas de versión ya están cargadas.
 
 1. Añada un comentario y seleccione una etiqueta de versión en la lista desplegable.
 
-   ![Cuadro de diálogo Etiqueta de nueva versión](images/lesson-15/labels-dialog.png)
+   ![Cuadro De Diálogo Etiqueta De Nueva Versión](images/lesson-15/labels-dialog.png)
 
 1. Haga clic en [!UICONTROL **Guardar**].
 
@@ -175,21 +175,21 @@ El número de versión se actualiza.
 
 1. Haga clic en el título para abrir el menú contextual.
 
-1. Seleccionar [!UICONTROL **Ver en la IU de Assets**].
+1. Seleccione [!UICONTROL **Ver en la IU de Assets**].
 
-   ![IU de Assets](images/lesson-15/view-assets-ui.png)
+   ![IU DE Assets](images/lesson-15/view-assets-ui.png)
 
    - El historial de versiones con etiquetas se muestra a la izquierda.
 
    ![Historial de versiones](images/lesson-15/version-history.png)
 
-1. Haga clic en una versión para acceder a opciones como **Volver a esta versión** y **Previsualizar versión**.
+1. Haga clic en una versión para acceder a opciones como **Revertir a esta versión** y **Vista previa de la versión**.
 
 ## Crear una plantilla nueva
 
 Existen plantillas tanto para temas como para mapas. Los administradores pueden acceder a Plantillas en el panel izquierdo.
 
-1. Clic [!UICONTROL **Plantillas**] en el panel izquierdo.
+1. Haga clic en [!UICONTROL **Plantillas**] en el panel izquierdo.
 
 1. Seleccione Mapa o Tema para abrir el menú contextual asociado.
 

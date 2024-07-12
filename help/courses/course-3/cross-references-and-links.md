@@ -1,10 +1,10 @@
 ---
 title: Referencias cruzadas y vínculos
-description: AEM Creación de referencias cruzadas y vínculos en guías de
+description: Creación de referencias cruzadas y vínculos en AEM Guides
 exl-id: bee7d50f-cbdd-4ac8-b15b-101febc4ae80
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
@@ -28,38 +28,38 @@ Es posible crear una referencia cruzada externa arrastrando y soltando un tema d
 
    a. Haga clic dentro del elemento.
 
-   b. En el panel Propiedades del contenido, elija **ID** en el menú desplegable Atributo.
+   b. En el panel Propiedades del contenido, elija **ID** en la lista desplegable Atributo.
 
    c. Escriba un nombre lógico en el campo Valor.
 
-   d. Vea el elemento y su valor en **Vista Esquema** si lo desea.
+   d. Vea el elemento y su valor en **Vista de esquema** si lo desea.
 
-1. **Guardar** Consulte el tema para asegurarse de que el Repositorio tiene el ID actualizado.
+1. **Guarde** el tema para asegurarse de que el repositorio tenga el ID actualizado.
 
-1. Haga clic en [!UICONTROL **Referencia**] en la barra de herramientas superior.
+1. Haga clic en el icono [!UICONTROL **Referencia**] en la barra de herramientas superior.
 
    ![Barra de herramientas](images/lesson-7/references-icon.png)
 
-1. Desde el **Referencia de contenido** , seleccione el emparejamiento de ID y elemento que desee insertar como referencia cruzada.
+1. En la ficha **Referencia de contenido**, seleccione el emparejamiento de elemento e ID que desee insertar como referencia cruzada.
 
-1. Clic [!UICONTROL **Seleccionar**].
+1. Haga clic en [!UICONTROL **Seleccionar**].
 
 Se ha añadido la referencia cruzada al tema.
 
 ## Vínculo a un sitio web
 
-Puede insertar un vínculo a un sitio web dentro de cualquier tema. AEM Consulte el vídeo del Curso 1 de Guías de la sobre Vinculación a sitios web para obtener más información.
+Puede insertar un vínculo a un sitio web dentro de cualquier tema. Consulte el vídeo del curso 1 de AEM Guides sobre vinculación a sitios web para obtener más información.
 
 
 ## Ver vínculos rotos
 
-Algunas modificaciones pueden provocar que se rompan las referencias cruzadas. Estos incluyen eliminar un tema, reorganizar una sección que contiene una referencia cruzada o cambiar un ID después de insertar la referencia cruzada. Tenga en cuenta que un tema de ejemplo _cross-referencesandlinks.zip_ se proporciona con esta lección que hará que varias de las referencias cruzadas con viñetas del contenido interno se rompan.
+Algunas modificaciones pueden provocar que se rompan las referencias cruzadas. Estos incluyen eliminar un tema, reorganizar una sección que contiene una referencia cruzada o cambiar un ID después de insertar la referencia cruzada. Tenga en cuenta que con esta lección se proporciona un tema de ejemplo _cross-referencesandlinks.zip_ que hará que se rompan varias de las referencias cruzadas con viñetas del contenido interno.
 
-1. Vaya a **Vista Esquema** en el panel izquierdo.
+1. Vaya a la **Vista de esquema** en el panel izquierdo.
 
-1. Haga clic en [!UICONTROL **Filtrar**] icono.
+1. Haga clic en el icono [!UICONTROL **Filtro**].
 
-1. Seleccionar **Vínculos rotos**.
+1. Seleccionar **vínculos rotos**.
 
    ![Lista desplegable de filtros](images/lesson-7/broken-links.png)
 

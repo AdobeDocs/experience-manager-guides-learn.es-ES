@@ -1,11 +1,11 @@
 ---
-title: Resumen de Introducción a [!DNL AEM Guides]
-description: Resumen de Introducción a [!DNL Adobe Experience Manager Guides]
+title: Resumen de introducción a  [!DNL AEM Guides]
+description: Resumen de introducción a  [!DNL Adobe Experience Manager Guides]
 exl-id: a1f7cee3-2657-4744-95c4-09d3eadb8492
 source-git-commit: b5e64512956f0a7f33c2021bc431d69239f2a088
 workflow-type: tm+mt
 source-wordcount: '65'
-ht-degree: 6%
+ht-degree: 0%
 
 ---
 
@@ -22,4 +22,4 @@ En este curso, ha aprendido lo siguiente:
 - Trabajo con listas numeradas y con viñetas
 - Versión del contenido
 - Creación y organización de un mapa
-- AEM Publicación de un mapa como sitio y PDF de la
+- Publish AEM proporciona un mapa como sitio y PDF de la red de

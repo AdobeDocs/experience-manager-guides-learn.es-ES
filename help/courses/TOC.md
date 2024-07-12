@@ -10,9 +10,9 @@ ht-degree: 16%
 ---
 
 
-# Tutorials para [!DNL Adobe Experience Manager Guides] {#videos}
+# Tutorials de [!DNL Adobe Experience Manager Guides] {#videos}
 
-+ [[!DNL AEM Guides] Vídeos](overview.md)
++ [[!DNL AEM Guides] vídeos](overview.md)
 + Introducción a [!DNL AEM Guides] {#getting-started}
    + [Información general sobre la introducción](./course-1/overview.md)
    + [AEM Comprender la interfaz de usuario de](./course-1/understanding-the-aem-user-interface.md)
@@ -22,7 +22,7 @@ ht-degree: 16%
    + [Trabajo con listas](./course-1/working-with-lists.md)
    + [Contenido de versión](./course-1/versioning-content.md)
    + [Creación de un mapa](./course-1/creating-a-map.md)
-   + [Publicar salida predeterminada](./course-1/publishing-default-output.md)
+   + [Salida predeterminada de Publish](./course-1/publishing-default-output.md)
    + [Resumen](./course-1/recap.md)
 + Generación de resultados con [!DNL AEM Guides] {#output-generation}
    + [Información general de generación de salida](./course-2/overview.md)
@@ -34,7 +34,7 @@ ht-degree: 16%
    + [Solución de problemas de publicación](./course-2/troubleshooting-publishing-errors.md)
    + [Publicación masiva](./course-2/bulk-publishing.md)
    + [Resumen](./course-2/recap.md)
-+ Creación mediante [!DNL AEM Guides] Editor {#advanced-user-guide}
++ Creando con el editor [!DNL AEM Guides] {#advanced-user-guide}
    + [Resumen de creación](./course-3/overview.md)
    + [Preferencias de usuario, Configuración del editor y Barras de herramientas del editor](./course-3/user-settings-preferences-toolbars.md)
    + [Perfiles de carpeta](./course-3/folder-profiles.md)

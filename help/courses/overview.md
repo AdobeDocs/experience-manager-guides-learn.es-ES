@@ -1,6 +1,6 @@
 ---
-title: Tutoriales en vídeo para [!DNL Adobe Experience Manager Guides]
-description: Ver tutoriales de vídeo sobre [!DNL Adobe Experience Manager Guides]AEM AEM AEM AEM , Complemento XML de, Complemento XML de, Componente DoX de la lista de distribución de datos, y Complemento DoX de la lista de distribución de.
+title: Tutoriales en vídeo para  [!DNL Adobe Experience Manager Guides]
+description: AEM AEM AEM AEM Vea tutoriales en vídeo sobre  [!DNL Adobe Experience Manager Guides], complemento XML de la aplicación de la aplicación de la aplicación, complemento XML de la aplicación, complemento XML de la aplicación, complemento XML de la aplicación de la aplicación, complemento XML de la aplicación de la aplicación, y Dox.
 exl-id: 4066431b-0838-45a6-b6b1-e366f210eb8d
 source-git-commit: 0c2a131c2e8125590e4b624d7fe16ebd1fbbce16
 workflow-type: tm+mt
@@ -11,7 +11,7 @@ ht-degree: 5%
 
 # Tutoriales para AEM Guides
 
-Consulte este espacio para cursos basados en vídeo para [!DNL Adobe Experience Manager Guides].
+Consulte este espacio para ver cursos basados en vídeo de [!DNL Adobe Experience Manager Guides].
 
 >[!NOTE]
 > 
@@ -21,7 +21,7 @@ Consulte este espacio para cursos basados en vídeo para [!DNL Adobe Experience 
 
 * **[[!DNL AEM Guides] Curso de creación](course-3/overview.md)**
 
-  *Guía del usuario avanzada de [!DNL AEM Guides] Editor*
+  *Guía de usuario avanzada del editor [!DNL AEM Guides]*
 
 * **[[!DNL AEM Guides] Curso de introducción](course-1/overview.md)**
 
@@ -29,4 +29,4 @@ Consulte este espacio para cursos basados en vídeo para [!DNL Adobe Experience 
 
 * **[Generación de resultados con [!DNL AEM Guides]](course-2/overview.md)**
 
-  *Obtenga información sobre cómo generar resultados mediante [!DNL Adobe Experience Manager Guides]. Obtenga información acerca de las distintas funciones disponibles para la generación de resultados: informes, líneas de base, condiciones, resolución de problemas, publicación por lotes y activación.*
+  *Obtenga información sobre cómo generar resultados usando [!DNL Adobe Experience Manager Guides]. Obtenga información acerca de las diversas características disponibles para la generación de resultados: informes, líneas de base, condiciones, solución de problemas, publicación en lotes y activación.*

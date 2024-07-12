@@ -1,6 +1,6 @@
 ---
 title: Seguimiento de cambios
-description: AEM Seguimiento de cambios en las guías de
+description: Seguimiento de cambios en AEM Guides
 exl-id: 57779920-b3b4-44be-a1fb-89ea7c89eef7
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -17,7 +17,7 @@ Puede realizar un seguimiento de todas las actualizaciones realizadas en un docu
 
 ## Uso de la función Control de cambios
 
-1. Alternar el **Control de cambios** icono de la barra de herramientas para activar (o desactivar) la función.
+1. Cambie el icono de la barra de herramientas **Control de cambios** para habilitar (o deshabilitar) la característica.
 
    ![Control de cambios](images/lesson-12/track-changes-icon.png)
 
@@ -25,7 +25,7 @@ Puede realizar un seguimiento de todas las actualizaciones realizadas en un docu
 
    El contenido añadido ahora se muestra en verde con una barra de cambios. El contenido eliminado se muestra en rojo con un tachado.
 
-1. Seleccione el **Cambios seguidos** en la parte derecha para acceder al panel Cambios rastreados.
+1. Seleccione el icono **Cambios rastreados** de la derecha para acceder al panel Cambios rastreados.
 
    ![Aceptar/Rechazar todo](images/lesson-12/accept-reject-all.png)
 
@@ -41,7 +41,7 @@ Otros usuarios ahora pueden abrir el tema y ver las marcas de revisión existent
 
 La función de búsqueda es útil cuando se rastrean muchos cambios, ya que desplazarse por ellos puede llevar mucho tiempo.
 
-1. Seleccione el **Cambios seguidos** en la parte derecha para acceder al panel Cambios rastreados.
+1. Seleccione el icono **Cambios rastreados** de la derecha para acceder al panel Cambios rastreados.
 
 1. Escriba una palabra o frase en el campo Buscar.
 La búsqueda devuelve cualquier cambio que coincida con las palabras buscadas.
@@ -50,7 +50,7 @@ La búsqueda devuelve cualquier cambio que coincida con las palabras buscadas.
 
 Las marcas de revisión múltiples también se pueden filtrar por inserción, eliminación o revisor.
 
-1. Haga clic en [!UICONTROL **Filtrar**] en la parte inferior del panel Cambios rastreados.
+1. Haga clic en el icono [!UICONTROL **Filtro**] en la parte inferior del panel Cambios rastreados.
 
 1. Seleccione las casillas de verificación de los filtros que desee.
 
@@ -62,21 +62,21 @@ Las marcas de revisión múltiples también se pueden filtrar por inserción, el
 
 Los revisores y los expertos en la materia pueden aceptar o rechazar los cambios de otros usuarios, ya sea de forma individual o conjunta.
 
-1. Haga clic en [!UICONTROL **Cambios seguidos**] en la parte derecha para acceder al panel Cambios rastreados.
+1. Haga clic en el icono [!UICONTROL **Cambios rastreados**] de la derecha para acceder al panel Cambios rastreados.
 
 1. Seleccione un cambio específico.
 
-1. Haga clic en [!UICONTROL **Pulgares hacia arriba**] o [!UICONTROL **Pulgares hacia abajo**] icono asociado al cambio para aceptarlo o rechazarlo.
+1. Haga clic en el icono [!UICONTROL **Pulgares arriba**] o [!UICONTROL **Pulgares abajo**] asociado con el cambio para aceptarlo o rechazarlo.
 
    ![Aceptar/rechazar IU única](images/lesson-12/accept-reject-single.png)
 
    O bien
 
-   Haga clic en [!UICONTROL **Pulgares hacia arriba**] o [!UICONTROL **Pulgares hacia abajo**] sobre la barra de búsqueda para aceptar o rechazar todos los cambios.
+   Haga clic en el icono [!UICONTROL **Pulgares arriba**] o [!UICONTROL **Pulgares abajo**] situado encima de la barra de búsqueda para aceptar o rechazar todos los cambios.
 
    ![Aceptar/rechazar IU única](images/lesson-12/accept-reject-single.png)
 
-1. [!UICONTROL **Guardar**] Seleccione el tema.
+1. [!UICONTROL **Guardar**] el tema.
 
 ## Uso de la función Combinar
 
@@ -84,18 +84,18 @@ Cuando se trabaja en un entorno de varios autores, puede resultar difícil reali
 
 1. Abra un tema en el Editor web.
 
-1. Haga clic en [!UICONTROL **Combinar**] en la barra de herramientas.
+1. Haga clic en el icono [!UICONTROL **Combinar**] de la barra de herramientas.
 
-   ![Icono de combinación](images/lesson-12/merge-icon.png)
+   ![Icono De Combinación](images/lesson-12/merge-icon.png)
 
 1. En el cuadro de diálogo Combinar, seleccione una versión del archivo con la que desee comparar la versión actual del archivo.
 
 1. En Opciones, elija:
 
-   - **Seguir cambios de la versión seleccionada**: Esta opción muestra todas las actualizaciones de contenido en forma de cambios rastreados. Puede elegir aceptar o rechazar los cambios del documento de uno en uno o todos a la vez.
+   - **Rastrear cambios de la versión seleccionada**: esta opción muestra todas las actualizaciones de contenido en forma de cambios rastreados. Puede elegir aceptar o rechazar los cambios del documento de uno en uno o todos a la vez.
 
-   - **Revertir a la versión seleccionada**: Esta opción revierte la versión actual del documento a la versión seleccionada. No le proporciona ningún control sobre qué contenido se acepta o rechaza.
+   - **Revertir a la versión seleccionada**: esta opción revierte la versión actual del documento a la versión seleccionada. No le proporciona ningún control sobre qué contenido se acepta o rechaza.
 
 1. Haga clic en [!UICONTROL **Listo**].
 
-Si seleccionó la **Opción Rastrear cambios de la versión seleccionada**, todos los cambios de la versión seleccionada aparecerán en la pestaña Cambios del panel derecho.
+Si seleccionó la opción **Rastrear cambios de la versión seleccionada**, todos los cambios de la versión seleccionada aparecerán en la pestaña Cambios del panel derecho.

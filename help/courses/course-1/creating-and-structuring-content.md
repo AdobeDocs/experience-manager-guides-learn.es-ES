@@ -1,11 +1,11 @@
 ---
-title: Creación de contenido en [!DNL AEM Guides]
-description: Creación de contenido en [!DNL Adobe Experience Manager Guides]
+title: Creando contenido en  [!DNL AEM Guides]
+description: Creando contenido en  [!DNL Adobe Experience Manager Guides]
 exl-id: f7cfc5c8-414f-4480-a9c9-b9920975a55d
 source-git-commit: 6959927315c7afc62a7423e835a36895c76fdc6d
 workflow-type: tm+mt
 source-wordcount: '381'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,11 +17,11 @@ Una vez que se haya familiarizado con la interfaz de usuario, puede empezar a cr
 
 ## Creación de una carpeta
 
-1. Seleccione el **Repositorio** para ver sus carpetas y archivos.
+1. Seleccione el icono **Repositorio** para ver sus carpetas y archivos.
 
    ![Icono de repositorio](images/common/repository-icon.png)
 
-1. Seleccione el **+** icono y **Carpeta**.
+1. Seleccione el icono **+** y la **carpeta**.
 
    ![+ icono](images/lesson-3/+-icon.png)
 
@@ -39,8 +39,8 @@ Ahora podemos crear una carpeta dentro de su nueva carpeta para incluir imágene
 
    Se muestra el menú Opciones.
 
-1. Seleccionar **Crear \> carpeta**.
-   ![Creación de una subcarpeta](images/lesson-3/create-subfolder-with-markings.png)
+1. Seleccione **Crear \> carpeta**.
+   ![Creando una subcarpeta](images/lesson-3/create-subfolder-with-markings.png)
 
 1. Asigne un título a la subcarpeta (por ejemplo, &quot;imágenes&quot;) y seleccione **Crear**.
 
@@ -52,9 +52,9 @@ Ahora podemos crear una carpeta dentro de su nueva carpeta para incluir imágene
 
    Se muestra el menú Opciones.
 
-1. Seleccionar **Crear \> Tema**.
+1. Seleccione **Crear \> Tema**.
 
-   ![Creación de un nuevo tema](images/lesson-3/create-topic-with-markings.png)
+   ![Creando nuevo tema](images/lesson-3/create-topic-with-markings.png)
 
    Se muestra el cuadro de diálogo Crear nuevo tema.
 
@@ -76,13 +76,13 @@ Puede guardar el trabajo en cualquier momento con Guardar o Guardar como nueva v
 
 ### Guardar el trabajo sin crear versiones
 
-1. Seleccione el **Guardar** icono.
+1. Seleccione el icono **Guardar**.
 
-   ![Icono Guardar](images/common/save.png)
+   ![Icono de guardar](images/common/save.png)
 
 ### Guardar como nueva versión
 
-1. Seleccione el **Guardar como nueva versión** en la parte derecha del icono Guardar.
+1. Seleccione el icono **Guardar como nueva versión** a la derecha del icono Guardar.
 
    ![Icono Guardar como nueva versión](images/common/save-as-new-version.png)
 

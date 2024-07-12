@@ -1,6 +1,6 @@
 ---
-title: AEM Trabajar con imágenes en guías de
-description: Uso de imágenes en las guías de Adobe Experience Manager
+title: Uso de imágenes en AEM Guides
+description: Uso de imágenes en Adobe Experience Manager Guides
 exl-id: 8b920a9a-bedb-434c-b6fb-3569ce4b7a81
 source-git-commit: 1f8fe099be2b4123eec6f7c973668b415097ac45
 workflow-type: tm+mt
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 A continuación se muestra cómo cargar e insertar una imagen, así como cómo guardar una nueva versión de un tema.
 
-Puede descargar el archivo de imagen de ejemplo desde [aquí.](assets/working-with-images/SignInScreen.png)
+Puede descargar el archivo de imagen de ejemplo de [aquí.](assets/working-with-images/SignInScreen.png)
 
 >[!VIDEO](https://video.tv.adobe.com/v/336661?quality=12&learn=on)
 
@@ -23,15 +23,15 @@ Puede descargar el archivo de imagen de ejemplo desde [aquí.](assets/working-wi
 
    ![Icono de puntos suspensivos](images/lesson-4/ellipses.png)
 
-1. Seleccionar **[!UICONTROL Cargar recursos]**.
+1. Seleccione **[!UICONTROL Cargar Assets]**.
 
-   ![Cargar recursos](images/lesson-4/upload-assets.png)
+   ![Cargar Assets](images/lesson-4/upload-assets.png)
 
 1. Seleccione la imagen que desee cargar desde el sistema local y seleccione **Abrir**.
 
-   El [!UICONTROL Cargar recursos] aparece el cuadro de diálogo.
+   Se muestra el cuadro de diálogo [!UICONTROL Cargar Assets].
 
-1. Seleccionar **Cargar**.
+1. Seleccione **Cargar**.
 
 ## Inserción de una imagen en un tema
 
@@ -49,27 +49,27 @@ Para lo siguiente, asegúrese de que el tema esté abierto en el editor de docum
 
 ### Inserción de una imagen con el botón Insertar imagen
 
-1. Seleccione el **Insertar imagen** icono.
+1. Seleccione el icono **Insertar imagen**.
 
    ![Icono Insertar imagen](images/lesson-4/insert-image.png)
 
    Aparecerá el cuadro de diálogo Insertar imagen.
 
 1. Seleccione el icono de carpeta junto al campo Seleccionar archivo para buscar la imagen o desplazarse a su ubicación dentro del Repositorio.
-1. Seleccione el icono de la imagen y, a continuación, **Seleccionar**.
+1. Seleccione el icono de la imagen y después **Seleccionar**.
 
    ![Seleccionar imagen](images/lesson-4/select-image-with-markings.png)
 
    Aparecerá el cuadro de diálogo Insertar imagen con la información de la imagen seleccionada.
 
 1. Introduzca texto en los campos Título de la figura y Texto alternativo según sea necesario.
-1. Seleccionar **Insertar**.
+1. Seleccione **Insertar**.
 
    La imagen se muestra en el editor junto con el título de la figura.
 
 ## Quitar una imagen de un tema
 
-1. Seleccione la imagen en el editor de documentos y pulse la tecla **Eliminar** clave.
+1. Seleccione la imagen en el editor de documentos y presione la tecla **Delete**.
 
 ## Guardar una nueva versión de un tema
 
@@ -77,11 +77,11 @@ Las versiones le permiten revisar y comparar diferentes versiones. Incluso puede
 
 Dado que ha realizado un cambio importante en el tema, es posible que ahora le resulte útil guardar el trabajo actual como una nueva versión.
 
-1. Seleccione el **Guardar como nueva versión** icono.
+1. Seleccione el icono **Guardar como nueva versión**.
 
    ![Icono Guardar como nueva versión](images/common/save-as-new-version.png)
 
-   El **Guardar como nueva versión** aparece el cuadro de diálogo.
+   Se muestra el cuadro de diálogo **Guardar como nueva versión**.
 
 1. En el campo Comentarios para la nueva versión, introduzca un breve pero claro resumen de los cambios.
 1. En el campo Etiquetas de versión, introduzca las etiquetas relevantes.

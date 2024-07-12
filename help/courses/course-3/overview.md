@@ -1,5 +1,5 @@
 ---
-title: Curso 3 de editor de guías de Adobe Experience Manager
+title: Curso de Adobe Experience Manager Guides Editor 3
 description: Guía del usuario avanzado para el editor web de AEM Guides
 exl-id: f73a11ae-07e4-42c6-a803-7bdffe08de6d
 source-git-commit: 6a35536d55bec04d69d1c296b75b55f034f70186
@@ -15,16 +15,16 @@ ht-degree: 11%
 
 En este conjunto de tutoriales, aprenderá a trabajar con lo siguiente:
 
-- [Preferencias de usuario, Configuración del editor y Barras de herramientas del editor](user-settings-preferences-toolbars.md)
+- [Preferencias de usuario, configuración del editor y barras de herramientas del editor](user-settings-preferences-toolbars.md)
 - [Perfiles de carpeta](folder-profiles.md)
 - [Configuración del editor](editor-configuration.md)
 - [Paneles](panels.md)
-- [Vista Esquema](outline-view.md)
+- [Vista de esquema](outline-view.md)
 - [Referencias cruzadas y vínculos](cross-references-and-links.md)
 - [Reutilización de contenido](content-reuse.md)
 - [Claves](keys.md)
 - [Glosario](glossary.md)
-- [Corrección ortográfica y Buscar/reemplazar](spell-check.md)
+- [Revisar ortografía y buscar/reemplazar](spell-check.md)
 - [Control de cambios](track-changes.md)
 - [Condiciones](conditions.md)
 - [Mapas y marcadores](maps-and-bookmaps.md)

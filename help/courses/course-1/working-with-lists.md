@@ -1,6 +1,6 @@
 ---
-title: Uso de listas en [!DNL AEM Guides]
-description: Uso de listas en [!DNL Adobe Experience Manager Guides]
+title: Trabajando con listas en  [!DNL AEM Guides]
+description: Trabajando con listas en  [!DNL Adobe Experience Manager Guides]
 exl-id: 2fde90f1-cb78-4953-ae2e-1fdc3c7798a7
 source-git-commit: b5e64512956f0a7f33c2021bc431d69239f2a088
 workflow-type: tm+mt
@@ -21,9 +21,9 @@ Se debe utilizar una lista con viñetas o sin ordenar cuando no sea necesario or
 
 ### Inserción de una lista con viñetas
 
-1. Seleccione el **Insertar lista con viñetas** de la barra de herramientas.
+1. Seleccione el icono **Insertar lista con viñetas** de la barra de herramientas.
 
-   ![Icono Insertar lista con viñetas](images/lesson-6/insert-bulleted-list.png)
+   ![Insertar icono de lista con viñetas](images/lesson-6/insert-bulleted-list.png)
 
    Aparece un punto de viñeta. Este es el principio de su lista.
 
@@ -37,7 +37,7 @@ Se debe utilizar una lista numerada cuando los componentes de la lista deban ord
 
 ### Insertar una lista ordenada
 
-1. Seleccione el **Insertar lista numerada** de la barra de herramientas.
+1. Seleccione el icono **Insertar lista numerada** de la barra de herramientas.
 
    ![Icono Insertar lista numerada](images/lesson-6/insert-numbered-list.png)
 
@@ -51,7 +51,7 @@ Se debe utilizar una lista numerada cuando los componentes de la lista deban ord
 
 Ahora que ha agregado más contenido al concepto, puede guardar el trabajo como una nueva versión y registrar los cambios.
 
-1. Seleccione el **Guardar como nueva versión** icono.
+1. Seleccione el icono **Guardar como nueva versión**.
 
    ![Icono Guardar como nueva versión](images/common/save-as-new-version.png)
 

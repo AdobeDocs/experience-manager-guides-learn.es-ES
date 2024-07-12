@@ -1,6 +1,6 @@
 ---
 title: Publicación masiva
-description: Publicación masiva en [!DNL Adobe Experience Manager Guides]
+description: Publicación masiva en  [!DNL Adobe Experience Manager Guides]
 exl-id: b277e846-ef71-47ec-a66c-ac9d392d53e0
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -11,7 +11,7 @@ ht-degree: 3%
 
 # Publicación masiva
 
-Al publicar, a menudo se necesita más de un tipo de documentación. Con Colecciones de mapas puede controlar el número y los tipos de salida que se ensamblarán y generarán y poner en marcha la publicación masiva. El panel Publicar permite ver los trabajos de publicación activos. El tablero de publicación en lote permite activar colecciones de forma masiva.
+Al publicar, a menudo se necesita más de un tipo de documentación. Con Colecciones de mapas puede controlar el número y los tipos de salida que se ensamblarán y generarán y poner en marcha la publicación masiva. El panel de Publish le permite ver los trabajos de publicación activos. El tablero de Publish por lotes permite activar colecciones por lotes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338985?quality=12&learn=on)
 
@@ -29,25 +29,25 @@ Con Colecciones de mapas, puede controlar los tipos de salida que se generarán 
 
 1. Escriba un Título de colección.
 
-   ![Map-Collection](images/map-collection.png)
+   ![Colección de mapas](images/map-collection.png)
 
 1. Haga clic en **Crear**.
 1. Cierre el mensaje de éxito.
 
 1. Abra la colección de mapas (haga clic en la sección gris debajo del mosaico)
 
-1. Clic **Editar**.
+1. Haga clic en **Editar**.
 
 1. Añada las asignaciones según sea necesario.
 
-1. Seleccionar o anular la selección **Valores de salida** para cada mapa.
+1. Seleccione o anule la selección de **Ajustes preestablecidos de salida** para cada mapa.
 1. Haga clic en **Listo**.
 
 ### Filtrado de ajustes preestablecidos de mapa
 
 1. Abra un ajuste preestablecido de mapa.
 
-1. En **Filtrar** expanda y seleccione las opciones que sean necesarias.
+1. En **Filtro**, expanda y seleccione las opciones que sean necesarias.
 
 ### Generación de contenido en una colección de mapas
 
@@ -61,52 +61,53 @@ Con Colecciones de mapas, puede controlar los tipos de salida que se generarán 
 
 1. Revise el resultado.
 
-## Visualización de trabajos de publicación activos en el panel de publicación
+## Visualización de trabajos de publicación activos en el panel de Publish
 
-El panel Publicar permite ver los trabajos de publicación activos. Muestra una lista dinámica de mapas y su estado actual. Puede rastrear, administrar o cancelar flujos de trabajo de publicación.
+El Tablero de Publish le permite ver las
+trabajos de publicación. Muestra una lista dinámica de mapas y su estado actual. Puede rastrear, administrar o cancelar flujos de trabajo de publicación.
 
-1. En la vista Exploración, haga clic en **Herramientas** icono.
+1. En la vista Exploración, haga clic en el icono **Herramientas**.
 
 1. Haga clic en **[!DNL Guides]**.
 
-1. Seleccione el **Publicar tablero** mosaico.
+1. Seleccione el mosaico **Panel de Publish**.
 
-       Si el panel está en blanco, no se ejecutan trabajos de publicación.
+       Si el tablero está en blanco, no se están ejecutando trabajos de publicación.
        
    
 1. Filtre el panel según sea necesario para ver todos los trabajos de publicación.
 
-### Uso del tablero de publicación en lote
+### Uso del tablero de Publish por lotes
 
-El tablero de publicación en lote permite trabajar con colecciones de activación en lote y controlar varios tipos de resultados.
+El tablero de Bulk Publish le permite trabajar con colecciones de activación masiva y controlar varios tipos de salida.
 
 ### Creación de una colección de activación masiva
 
-1. En la vista Exploración, haga clic en **Herramientas** icono.
+1. En la vista Exploración, haga clic en el icono **Herramientas**.
 
 1. Haga clic en **[!DNL Guides]**.
 
-1. Seleccione el **Tablero de publicación masiva** mosaico.
+1. Seleccione el mosaico **Tablero de Publish en lotes**.
 
 1. Escriba un Título de colección.
 
 1. Haga clic en **Crear**.
 
-1. Clic **Abrir**.
+1. Haga clic en **Abrir**.
 
 1. Abra la colección de mapas (haga clic en la sección gris debajo del mosaico)
 
-1. Clic **Editar**.
+1. Haga clic en **Editar**.
 
 1. Añada las asignaciones según sea necesario.
 
-1. Seleccionar o anular la selección **Valores de salida** para cada mapa.
+1. Seleccione o anule la selección de **Ajustes preestablecidos de salida** para cada mapa.
 1. Haga clic en **Listo**.
 1. Cierre la colección de mapas cuando haya terminado.
 
-### Publicación rápida de una colección de activación masiva
+### Recopilación rápida de Publish a Bulk Activation
 
 1. Seleccione un mosaico Colección de activación masiva.
-1. Clic **Abrir**.
+1. Haga clic en **Abrir**.
 1. Seleccione una o varias asignaciones.
-1. Clic **Publicación rápida**.
+1. Haga clic en **Quick Publish**.

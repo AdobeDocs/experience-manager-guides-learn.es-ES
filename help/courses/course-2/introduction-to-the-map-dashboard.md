@@ -4,7 +4,7 @@ description: Introducción al tablero de mapas
 exl-id: c2efa073-15e7-42a0-aaa8-04859b0fdf62
 source-git-commit: 1c4d278a05f2612bc55ce277efb5da2e6a0fa9a9
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '488'
 ht-degree: 0%
 
 ---

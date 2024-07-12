@@ -1,6 +1,6 @@
 ---
-title: Vinculación a sitios web en [!DNL AEM Guides]
-description: Vinculación a sitios web en [!DNL Adobe Experience Manager Guides]
+title: Vinculando a sitios web en  [!DNL AEM Guides]
+description: Vinculando a sitios web en  [!DNL Adobe Experience Manager Guides]
 exl-id: 6b89f52e-ac15-4604-8bac-ab0bb5b5a978
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -21,15 +21,15 @@ Los vínculos web dirigen a los lectores a sitios web para obtener más informac
 1. Añada una cadena de texto al concepto y resáltelo, o resalte el texto existente que desee.
 
    El vínculo se insertará en el texto resaltado.
-1. Seleccione el **Insertar referencia cruzada** de la barra de herramientas.
+1. Seleccione el botón **Insertar referencia cruzada** de la barra de herramientas.
 
-   ![Icono Insertar referencia cruzada](images/lesson-5/insert-crossref-icon.png)
+   ![Insertar icono de referencia cruzada](images/lesson-5/insert-crossref-icon.png)
 
    Se muestra el cuadro de diálogo Referencia.
 
 
-1. Seleccionar **Vínculo web** en el menú de la izquierda.
-1. Pegue la dirección URL deseada y haga clic en **Seleccionar**.
+1. Seleccione **Vínculo web** en el menú de la izquierda.
+1. Pegue la dirección URL que desee y haga clic en **Seleccionar**.
 
    El vínculo funciona y abre una página web en una nueva pestaña del explorador al hacer clic.
 
@@ -37,7 +37,7 @@ Los vínculos web dirigen a los lectores a sitios web para obtener más informac
 
 El botón Preview permite ver una previsualización de un tema. Aquí puede probar los vínculos y verlos como lo haría su audiencia.
 
-1. Seleccionar **Previsualizar** desde la barra de menús negra superior.
+1. Seleccione **Vista previa** en la barra de menús negra superior.
 
    ![Botón Vista previa](images/common/select-preview.png)
 
@@ -45,16 +45,16 @@ El botón Preview permite ver una previsualización de un tema. Aquí puede prob
 
 1. Seleccione el vínculo.
 El destino del vínculo se abre en otra pestaña.
-1. Vuelva a la vista Autor seleccionando **Autor** desde la barra de menús negra superior.
+1. Vuelva a la vista Autor seleccionando **Autor** en la barra de menú negra superior.
 
-   ![Botón Autor](images/lesson-5/author-map.png)
+   ![Botón de autor](images/lesson-5/author-map.png)
 
 
 ## Guardar como nueva versión
 
 Ahora que ha agregado más contenido al concepto, puede guardar el trabajo como una nueva versión y registrar los cambios.
 
-1. Seleccione el **Guardar como nueva versión** icono.
+1. Seleccione el icono **Guardar como nueva versión**.
 
    ![Icono Guardar como nueva versión](images/common/save-as-new-version.png)
 

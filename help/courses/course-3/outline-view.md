@@ -1,6 +1,6 @@
 ---
 title: Vista Esquema
-description: AEM Uso de la vista Esquema en las guías de la
+description: Uso de la vista Esquema en AEM Guides
 exl-id: 300f550f-dc79-4971-b8ba-43fe8499ea02
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -31,7 +31,7 @@ La vista Esquema cambia de expandida a contraída.
 
 1. Haga clic en cualquier elemento para saltar a esa ubicación.
 
-1. Haga clic en [!UICONTROL **Puntos suspensivos**] situado junto a un elemento para acceder a las opciones de acceso directo.
+1. Haga clic en los [!UICONTROL **puntos suspensivos**] junto a un elemento para acceder a las opciones de acceso directo.
 
    ![Menú contextual](images/lesson-6/shortcut-options.png)
 
@@ -39,9 +39,9 @@ La vista Esquema cambia de expandida a contraída.
 
 Se puede generar automáticamente un nuevo ID en función de la configuración del sistema. Mediante las Propiedades de contenido, el ID y su Valor también se pueden actualizar si es necesario.
 
-1. Haga clic en [!UICONTROL **Puntos suspensivos**] junto a cualquier elemento.
+1. Haga clic en [!UICONTROL **puntos suspensivos**] junto a cualquier elemento.
 
-1. Elegir **Generación de ID**.
+1. Elija **Generar ID**.
 
    ![Menú contextual de puntos suspensivos](images/lesson-6/ellipsis-popup.png)
 
@@ -63,9 +63,9 @@ Los elementos se pueden reordenar en la vista Esquema.
 
 1. Seleccione el elemento.
 
-1. Haga clic en [!UICONTROL **Puntos suspensivos**].
+1. Haga clic en [!UICONTROL **puntos suspensivos**].
 
-1. Seleccionar **Cambiar nombre de elemento**.
+1. Seleccione **Cambiar nombre de elemento**.
 
    ![Menú contextual Cambiar nombre de elemento](images/lesson-6/rename-before.png)
 
@@ -77,19 +77,19 @@ Se ha cambiado el nombre del elemento.
 
 1. Seleccione el elemento que desea desajustar.
 
-1. Haga clic en [!UICONTROL **Puntos suspensivos**].
+1. Haga clic en [!UICONTROL **puntos suspensivos**].
 
-1. Seleccionar [!UICONTROL **Desenvolver elemento**].
+1. Seleccione [!UICONTROL **Desenvolver elemento**].
 
 El contenido permanece, pero la estructura se ha eliminado.
 
 ## Filtrado de contenido mediante la vista Esquema
 
-1. Haga clic en [!UICONTROL **Filtrar**] situado junto a la barra de búsqueda en la vista Esquema.
+1. Haga clic en el icono [!UICONTROL **Filtro**] junto a la barra de búsqueda en la vista Esquema.
 
    ![Filtros](images/lesson-6/filter-icon.png)
 
-1. Elija una de estas opciones **Todo** para mostrar todos los elementos o **Vínculos rotos** para buscar y corregir referencias rotas.
+1. Elija **Todos** para mostrar todos los elementos o **Vínculos rotos** para buscar y corregir referencias rotas.
 
 ## Buscar con vista de esquema
 

@@ -1,11 +1,11 @@
 ---
 title: Conclusión de la serie de formación
-description: AEM Información general y resumen de las guías de formación de los
+description: Información general y resumen de la formación de AEM Guides
 exl-id: 29fe5e78-8787-4f09-a969-60f68e376976
 source-git-commit: 1c4d278a05f2612bc55ce277efb5da2e6a0fa9a9
 workflow-type: tm+mt
 source-wordcount: '50'
-ht-degree: 6%
+ht-degree: 2%
 
 ---
 
@@ -23,7 +23,7 @@ En este curso ha aprendido acerca de:
 
 - [Paneles](panels.md)
 
-- [Vista Esquema](outline-view.md)
+- [Vista de esquema](outline-view.md)
 
 - [Referencias cruzadas y vínculos](cross-references-and-links.md)
 

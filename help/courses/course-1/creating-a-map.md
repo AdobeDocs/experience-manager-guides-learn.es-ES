@@ -1,6 +1,6 @@
 ---
-title: Creación de un mapa en [!DNL AEM Guides]
-description: Obtenga información sobre cómo crear un mapa en [!DNL Adobe Experience Manager Guides]
+title: Crear un mapa en  [!DNL AEM Guides]
+description: Aprenda a crear un mapa en  [!DNL Adobe Experience Manager Guides]
 exl-id: e38a7fd5-2a29-4248-8e8f-e6a87e1eae9c
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -15,8 +15,8 @@ Un mapa es una herramienta organizativa que permite añadir y organizar la infor
 
 Puede descargar archivos DITA de ejemplo desde aquí:
 
-* [Documents-with-Visual-Content.dita](assets/working-with-maps/Documents-with-Visual-Content.dita)
-* [Working-with-Tables.dita](assets/working-with-maps/Working-with-Tables.dita)
+* [Documentos-con-contenido-visual.dita](assets/working-with-maps/Documents-with-Visual-Content.dita)
+* [Trabajando con tablas.dita](assets/working-with-maps/Working-with-Tables.dita)
 
 >[!VIDEO](https://video.tv.adobe.com/v/336725?quality=12&learn=on)
 
@@ -29,18 +29,18 @@ AEM Si lo desea, puede cargar archivos de muestra locales en la interfaz de usua
 
 ## Creación de un mapa
 
-1. Para abrir [!UICONTROL Opciones] , seleccione el icono de puntos suspensivos de la carpeta principal
+1. Para abrir el menú [!UICONTROL Opciones], seleccione el icono de puntos suspensivos de la carpeta principal
 
    ![Icono de puntos suspensivos](images/lesson-8/ellipses-9.png)
 
-1. Seleccionar **[!UICONTROL Crear]** > **[!UICONTROL Mapa]**.
+1. Seleccione **[!UICONTROL Crear]** > **[!UICONTROL Mapa]**.
 
 
    ![Crear mapa](images/lesson-8/create-map-with-markings.png)
 
-   El [!UICONTROL Crear nuevo mapa] se muestra.
+   Se muestra el cuadro de diálogo [!UICONTROL Crear nuevo mapa].
 
-1. En el [!UICONTROL Plantilla] , seleccione **[!UICONTROL Bookmap]** en el menú desplegable y asigne un título al mapa.
+1. En el campo [!UICONTROL Plantilla], selecciona **[!UICONTROL Bookmap]** del menú desplegable y asigna un título al mapa.
 1. Seleccione **[!UICONTROL Crear]**.
 
    El mapa se crea y el carril izquierdo cambia automáticamente de la vista Repositorio a la vista Mapa.
@@ -67,15 +67,15 @@ AEM Si lo desea, puede cargar archivos de muestra locales en la interfaz de usua
 
 La vista previa proporciona una visión rápida del contenido mediante los formatos predeterminados. Muestra los encabezados, párrafos, listas y cualquier otro contenido de los temas que se muestran.
 
-1. Seleccionar **[!UICONTROL Previsualizar]** desde la barra de menús negra superior.
+1. Seleccione **[!UICONTROL Vista previa]** en la barra de menús negra superior.
 
    ![Botón Vista previa](images/common/select-preview.png)
 
-El contenido se abre en [!UICONTROL Previsualizar].
+El contenido se abre en [!UICONTROL vista previa].
 
-1. Para volver a la Vista de autor y reanudar la edición de mapas, seleccione **Autor.**
+1. Para volver a la vista de autor y reanudar la edición de mapas, seleccione **Autor.**
 
-   ![Botón Autor](images/lesson-5/author-map.png)
+   ![Botón de autor](images/lesson-5/author-map.png)
 
 ## Configuración de la estructura del mapa
 
@@ -90,7 +90,7 @@ Puede editar la jerarquía de temas dentro del mapa.
 
 Ahora que el mapa está completo, puede guardar el trabajo como una nueva versión y registrar los cambios.
 
-1. Seleccione el **[!UICONTROL Guardar como nueva versión]** icono.
+1. Seleccione el icono **[!UICONTROL Guardar como nueva versión]**.
 
    ![Icono Guardar como nueva versión](images/common/save-as-new-version.png)
 

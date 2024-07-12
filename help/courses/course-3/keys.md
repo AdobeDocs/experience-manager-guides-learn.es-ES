@@ -1,6 +1,6 @@
 ---
 title: Claves
-description: AEM Las claves permiten incluir información de variables a al trabajar con DITA en guías de la
+description: Las claves permiten incluir información de variables en al trabajar con DITA en AEM Guides
 exl-id: cb64e094-fe6d-4a5e-8f0e-25ae58aaa2c6
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Diferentes conjuntos de materiales pueden contener información similar que debe personalizarse en lugares seleccionados. Las claves permiten incluir información de variables en al trabajar con DITA.
 
-En el archivo se proporcionan archivos de ejemplo que puede optar por utilizar para esta lección [keys.zip](assets/keys.zip).
+Los archivos de muestra que decida usar para esta lección se proporcionan en el archivo [keys.zip](assets/keys.zip).
 
 >[!VIDEO](https://video.tv.adobe.com/v/342756?quality=12&learn=on)
 
@@ -27,19 +27,19 @@ En el archivo se proporcionan archivos de ejemplo que puede optar por utilizar p
 
    c. Seleccione el archivo que desea extraer.
 
-   ![Seleccionar archivo comprimido](images/lesson-9/select-zip.png)
+   ![Seleccionar código postal](images/lesson-9/select-zip.png)
 
-   d. Haga clic [!UICONTROL **Extraer archivo**] en la barra de herramientas superior.
+   d. Haz clic en [!UICONTROL **Extraer archivo**] en la barra de herramientas superior.
 
    ![Barra de herramientas](images/lesson-9/extract-archive.png)
 
    e. En el cuadro de diálogo, elija la ubicación específica de los archivos que desea extraer, como una carpeta denominada Claves.
 
-   f. Haga clic [!UICONTROL **Siguiente**].
+   f. Haz clic en [!UICONTROL **Siguiente**].
 
    g. Omita los conflictos, ya que no existirán para contenido que nunca se haya cargado antes.
 
-   h. Seleccione [!UICONTROL **Extract**] en la parte superior derecha de la pantalla.
+   h. Seleccione [!UICONTROL **Extraer**] en la parte superior derecha de la pantalla.
 
 1. Cuando finalice la extracción, haga clic en [!UICONTROL **Ir a la carpeta de destino**].
 
@@ -55,21 +55,21 @@ Para utilizar correctamente las claves, las preferencias de usuario deben hacer 
 
    b. Configure las preferencias de usuario.
 
-   c. Haga clic en [!UICONTROL **Preferencias de usuario**] en la barra de herramientas superior.
+   c. Haga clic en el icono [!UICONTROL **Preferencias de usuario**] de la barra de herramientas superior.
 
    ![Barra de herramientas superior](images/lesson-9/author-view.png)
 
-   d. Haga clic en el icono de tecla para especificar una **Mapa raíz** que se utilizará para resolver Keys.
+   d. Haga clic en el icono de clave para especificar un **mapa raíz** que se utilizará para resolver las claves.
 
-   e. Seleccione las casillas de verificación de los recursos que desee.
+   e. Seleccione las casillas de verificación de cualquier Assets deseado.
 
-   ![Lista desplegable de recursos](images/lesson-9/select-assets.png)
+   ![Menú desplegable de Assets](images/lesson-9/select-assets.png)
 
-   f. Haga clic [!UICONTROL **Seleccionar**].
+   f. Haga clic en [!UICONTROL **Seleccionar**].
 
-   g. **Guardar** las Preferencias de usuario.
+   g. **Guardar** las preferencias de usuario.
 
-1. Vaya a **Vista de mapa**.
+1. Vaya a la **vista de mapa**.
 
 1. Abra el mapa especificado.
 
@@ -87,17 +87,17 @@ Las claves se han resuelto.
 
    a. Haga clic en una ubicación válida del mapa.
 
-   b. Seleccione la **Keydef** en la barra de herramientas superior.
+   b. Seleccione el icono **Keydef** en la barra de herramientas superior.
 
    ![Barra de herramientas Keydef](images/lesson-9/key-icon.png)
 
    c. En el cuadro de diálogo Insertar definición de clave, escriba un valor único para Claves que tenga sentido para la definición que está creando.
 
-   d. Haga clic [!UICONTROL **Insertar**].
+   d. Haga clic en [!UICONTROL **Insertar**].
 
 1. Agregue tema meta dentro de keydef.
 
-   a. Haga clic en [!UICONTROL **Insertar elemento**] en la barra de herramientas superior.
+   a. Haga clic en el icono [!UICONTROL **Insertar elemento**] de la barra de herramientas superior.
 
    ![Barra de herramientas Keydef](images/lesson-9/add-icon.png)
 
@@ -105,7 +105,7 @@ Las claves se han resuelto.
 
 1. Añada palabras clave dentro del tema meta.
 
-   a. Haga clic en [!UICONTROL **Insertar elemento**] en la barra de herramientas superior.
+   a. Haga clic en el icono [!UICONTROL **Insertar elemento**] de la barra de herramientas superior.
 
    ![Barra de herramientas Keydef](images/lesson-9/add-icon.png)
 
@@ -113,11 +113,11 @@ Las claves se han resuelto.
 
 1. Añada una palabra clave dentro del tema meta.
 
-   a. Haga clic en [!UICONTROL **Insertar elemento**] en la barra de herramientas superior.
+   a. Haga clic en el icono [!UICONTROL **Insertar elemento**] de la barra de herramientas superior.
 
    ![Barra de herramientas Keydef](images/lesson-9/add-icon.png)
 
-   b. En el **Insertar elemento** , busque y seleccione &quot;palabra clave&quot;
+   b. En el diálogo **Insertar elemento**, busque y seleccione &quot;palabra clave&quot;
 
 1. Escriba el valor de keydef en la palabra clave.
 

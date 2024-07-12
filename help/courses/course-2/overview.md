@@ -13,11 +13,11 @@ ht-degree: 0%
 
 En este conjunto de tutoriales, aprenderá a hacer lo siguiente:
 
-- [Comprensión del tablero de mapas](./introduction-to-the-map-dashboard.md)
-- [Trabajo con informes](./working-with-reports.md)
+- [Comprender el tablero de mapas](./introduction-to-the-map-dashboard.md)
+- [Trabajar con informes](./working-with-reports.md)
 - [Crear y publicar con líneas de base](./creating-and-publishing-with-baselines.md)
-- [Publicar con condiciones](./publishing-with-conditions.md)
-- [Explicación de los ajustes preestablecidos de salida](./output-presets.md)
+- [Publish con condiciones](./publishing-with-conditions.md)
+- [Comprender los ajustes preestablecidos de salida](./output-presets.md)
 - [Solucionar errores de publicación](./troubleshooting-publishing-errors.md)
-- [Publicación masiva](./bulk-publishing.md)
+- [Publicación en lotes](./bulk-publishing.md)
 - [Resumen](./recap.md)

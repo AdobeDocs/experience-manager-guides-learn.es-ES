@@ -19,7 +19,7 @@ La publicación condicional permite escribir una fuente de contenido para una o 
 
 Puede descargar archivos de ejemplo para el ejercicio aquí.
 
-[Ejercicio-descarga](assets/exercises/publishing-with-conditions.zip)
+[Descarga de ejercicio](assets/exercises/publishing-with-conditions.zip)
 
 ## Marcado de contenido con atributos condicionales
 
@@ -31,7 +31,7 @@ Puede descargar archivos de ejemplo para el ejercicio aquí.
 
 1. Seleccione el contenido específico al que desea asignar un atributo condicional. Por ejemplo, un solo párrafo dentro del origen.
 
-   ![Template-Choice](images/template-choice.png)
+   ![Opción de plantilla](images/template-choice.png)
 
 1. En el carril derecho, asegúrese de que se muestra Propiedades.
 
@@ -39,7 +39,7 @@ Puede descargar archivos de ejemplo para el ejercicio aquí.
 
 1. Asigne un valor al atributo. Se han aplicado las actualizaciones de visualización de contenido para mostrar el marcado condicional.
 
-   ![Especificar-plantilla](images/specify-template.png)
+   ![Especificar-Plantilla](images/specify-template.png)
 
 ## Vista previa del contenido condicional
 
@@ -47,25 +47,25 @@ Puede descargar archivos de ejemplo para el ejercicio aquí.
 
 1. En **Filtros**, seleccione o anule la selección de las condiciones para mostrar u ocultar.
 
-1. Seleccionar o anular la selección **Resaltar texto de condiciones**.
+1. Seleccione o anule la selección de **Resaltar texto de condiciones**.
 
-   ![Preview-Conditional-Content](images/preview-conditional-content.png)
+   ![Contenido-Condicional-De-Vista Previa](images/preview-conditional-content.png)
 
 ## Creación de un ajuste preestablecido de condición
 
 Un ajuste preestablecido de condición es una colección de propiedades que definen lo que se va a incluir, excluir o marcar de otro modo durante la generación de resultados.
 
-1. En el tablero de mapas, seleccione **Ajustes preestablecidos** pestaña.
+1. En el tablero de mapas, seleccione la pestaña **Ajustes preestablecidos de condición**.
 
 1. Haga clic en **Crear**.
 
-1. Seleccionar **Añadir** (o **Añadir todo**).
+1. Seleccione **Agregar** (o **Agregar todo**).
 
 1. Asigne un nombre a la condición.
 
 1. Seleccione una combinación de atributo, etiqueta y acción.
 
-   ![Create-Condition-Preset](images/create-condition-preset.png)
+   ![Crear-Condición-Ajuste-Preestablecido](images/create-condition-preset.png)
 
 1. Repita el proceso tantas veces como sea necesario.
 
@@ -77,15 +77,15 @@ Una vez aplicadas las condiciones al contenido, se puede generar como salida. Pu
 
 ## Generación de resultados condicionales mediante un ajuste preestablecido de condición
 
-1. Seleccione el **Valores de salida** pestaña.
+1. Seleccione la ficha **Ajustes preestablecidos de salida**.
 
 1. Seleccione un ajuste preestablecido de salida.
 
-1. Clic **Editar**.
+1. Haga clic en **Editar**.
 
-1. En **Aplicar condición mediante** seleccione un ajuste preestablecido de condición.
+1. En **Aplicar condición con**, seleccione un ajuste preestablecido de condición.
 
-   ![Generate-Conditional-Output](images/generate-conditional-output.png)
+   ![Generar-salida-condicional](images/generate-conditional-output.png)
 
 1. Haga clic en **Listo**.
 
@@ -95,11 +95,11 @@ Una vez aplicadas las condiciones al contenido, se puede generar como salida. Pu
 
 El fichero DITAval puede utilizarse para publicar contenido condicional. Esto requiere que se cree o cargue un archivo y, a continuación, se haga referencia a él en la publicación.
 
-1. Seleccione el **Valores de salida** pestaña.
+1. Seleccione la ficha **Ajustes preestablecidos de salida**.
 
 1. Seleccione un ajuste preestablecido de salida.
 
-1. Clic **Editar**.
+1. Haga clic en **Editar**.
 
 1. En Aplicar condición usando seleccione un fichero DITAval.
 

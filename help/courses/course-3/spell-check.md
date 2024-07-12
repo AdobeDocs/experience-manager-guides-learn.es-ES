@@ -1,17 +1,17 @@
 ---
 title: Corrección ortográfica y buscar/reemplazar
-description: AEM Uso de la revisión ortográfica y de buscar/reemplazar en las guías de la
+description: Uso de la revisión ortográfica y buscar/reemplazar en AEM Guides
 exl-id: 5f39618d-a919-4d3c-a4de-2896f2d1bf20
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
-source-wordcount: '442'
+source-wordcount: '441'
 ht-degree: 1%
 
 ---
 
 # Corrección ortográfica y Buscar/reemplazar
 
-AEM El Editor de guías de la tiene potentes funciones de revisión ortográfica y Buscar y reemplazar.
+El editor de AEM Guides tiene potentes funciones de revisión ortográfica y de búsqueda y reemplazo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342768?quality=12&learn=on)
 
@@ -31,17 +31,17 @@ Es posible que desee utilizar una herramienta de revisión ortográfica que no s
 
 1. Vaya a **Configuración del editor**.
 
-1. Seleccione el **General** pestaña configuración.
+1. Seleccione la ficha de configuración **General**.
 
    ![Configuración de revisión ortográfica](images/lesson-11/configure-dictionary.png)
 
 1. Hay dos opciones:
 
-   - **Corrección ortográfica del explorador** — la configuración predeterminada en la que la revisión ortográfica utiliza el diccionario integrado del explorador.
+   - **Revisión ortográfica del explorador**: la configuración predeterminada en la que la revisión ortográfica utiliza el diccionario integrado del explorador.
 
-   - **AEM Corrección ortográfica de** AEM — utilice esta opción para crear una lista de palabras personalizada utilizando el diccionario personalizado de la aplicación de la aplicación de la aplicación.
+   - AEM AEM **revisión ortográfica de la**: use esto para crear una lista de palabras personalizada usando el diccionario personalizado de la aplicación de escritura de la aplicación.
 
-1. Elegir **AEM Corrección ortográfica de**.
+1. AEM Elija **Corrección ortográfica de la**.
 
 1. Haga clic en [!UICONTROL **Guardar**].
 
@@ -49,29 +49,29 @@ Configurar un diccionario personalizado
 
 AEM El administrador puede cambiar la configuración para que el diccionario de la aplicación reconozca palabras personalizadas, como nombres de empresas.
 
-1. Vaya a **Herramientas** panel.
+1. Vaya al panel **Herramientas**.
 
-1. Iniciar sesión en **CRXDE Lite**.
+1. Inicie sesión en **CRXDE Lite**.
 
-   ![AEM Icono de CRXDE Lite de IU](images/lesson-11/crxde-lite.png)
+   AEM ![Icono de CRXDE Lite de IU de](images/lesson-11/crxde-lite.png)
 
-1. Vaya a **_nodo /apps/fmdita/config_**.
+1. Vaya al nodo **_/apps/fmdita/config_**.
 
-   ![Nodo de configuración del CRXDE Lite](images/lesson-11/config-node.png)
+   ![Nodo de configuración de CRXDE Lite](images/lesson-11/config-node.png)
 
 1. Cree un nuevo archivo.
 
    a. Haga clic con el botón derecho en la carpeta de configuración.
 
-   b. Elegir **Crear > Crear archivo**.
+   b. Elija **Crear > Crear archivo**.
 
    ![Creación de nuevo archivo de diccionario](images/lesson-11/new-dictionary-file.png)
 
    c. Asigne un nombre al archivo _**user_dictionary.txt**_.
 
-   ![Texto del diccionario del usuario](images/lesson-11/user-dictionary.png)
+   ![Texto del diccionario de usuario](images/lesson-11/user-dictionary.png)
 
-   d. Haga clic [!UICONTROL **OK**].
+   d. Haz clic en [!UICONTROL **Aceptar**].
 
 1. Abra el archivo.
 
@@ -87,39 +87,39 @@ AEM Es posible que los autores tengan que reiniciar su sesión del Editor Web pa
 
 1. Haga clic en el icono Buscar y reemplazar de la barra de herramientas superior.
 
-   ![Icono Buscar y reemplazar](images/lesson-11/find-replace-icon.png)
+   ![Buscar icono de reemplazo](images/lesson-11/find-replace-icon.png)
 
 1. En la barra de herramientas inferior, escriba una palabra o frase.
 
-1. Clic [!UICONTROL **Buscar**].
+1. Haga clic en [!UICONTROL **Buscar**].
 
 1. Si es necesario, escriba una palabra para reemplazar la palabra encontrada.
 
-1. Clic [!UICONTROL **Reemplazar**].
+1. Haga clic en [!UICONTROL **Reemplazar**].
 
 ## Buscar y reemplazar en todo el repositorio
 
 1. Vaya a **Repositorio**.
 
-1. Haga clic en [!UICONTROL **Buscar y reemplazar**] en la parte inferior izquierda de la pantalla.
+1. Haz clic en el icono [!UICONTROL **Buscar y reemplazar**] en la parte inferior izquierda de la pantalla.
 
-1. Haga clic en [!UICONTROL **Mostrar configuración**] icono.
+1. Haga clic en el icono [!UICONTROL **Mostrar configuración**].
 
 1. Elija una de estas opciones
 
-   - **Archivo de retirada antes de reemplazar** — si lo activa un administrador, el fichero se extraerá automáticamente antes de sustituir los términos de búsqueda.
+   - **Desproteger archivo antes de reemplazar**: si lo habilita un administrador, el archivo se desprotegerá automáticamente antes de reemplazar los términos de búsqueda.
 
-   - **Solo palabra completa** — restringe la búsqueda para que sólo devuelva la palabra o frase exacta introducida.
+   - **Sólo palabra completa**: restringe la búsqueda para que devuelva únicamente la palabra o frase exacta introducida.
 
-   ![Buscar y reemplazar en el repositorio](images/lesson-11/repository-find-replace.png)
+   ![Buscar reemplazo en el repositorio](images/lesson-11/repository-find-replace.png)
 
-1. Haga clic en [!UICONTROL **Aplicar filtro**] para seleccionar la ruta del repositorio en la que desea realizar la búsqueda.
+1. Haga clic en el icono [!UICONTROL **Aplicar filtro**] para seleccionar la ruta de acceso del repositorio en la que desea realizar la búsqueda.
 
 1. Introduzca los términos que desea buscar y reemplazar.
 
-1. Si es necesario, seleccione **Crear nueva versión tras reemplazar**.
+1. Si es necesario, seleccione **Crear nueva versión después de reemplazar**.
 
-1. Clic [!UICONTROL **Buscar**].
+1. Haga clic en [!UICONTROL **Buscar**].
 
 1. Abra el archivo deseado y utilice las flechas para desplazarse de un resultado encontrado al siguiente.
 

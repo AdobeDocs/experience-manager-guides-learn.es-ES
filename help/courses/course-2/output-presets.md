@@ -19,7 +19,7 @@ Un ajuste preestablecido de salida es una colección de propiedades de publicaci
 
 Se muestra un ajuste preestablecido de salida cuando se abre una asignación en el Editor XML en el Tablero de mapas. Los ajustes preestablecidos pueden incluir información sobre un tipo de salida específico, una ruta de destino, instrucciones sobre cómo administrar las páginas de salida existentes y otra configuración que se puede aplicar a un mapa para generar una salida.
 
-![Access-Output-Presets](images/access-output-presets.png)
+![Ajustes Preestablecidos De Salida De Acceso](images/access-output-presets.png)
 
 ## Creación de un ajuste preestablecido de salida
 
@@ -43,14 +43,14 @@ Los ajustes preestablecidos de salida están predefinidos, pero se pueden person
 
 1. Abra el tablero de mapas.
 
-1. Seleccione el **Valores de salida** pestaña.
+1. Seleccione la ficha **Ajustes preestablecidos de salida**.
 
 1. Seleccione un ajuste preestablecido de salida.
 
-1. Clic **Editar**.
+1. Haga clic en **Editar**.
 
 1. Modifique la configuración según sea necesario.
 
-   ![Edit-Output-Preset](images/edit-output-preset.png)
+   ![Editar-Salida-Ajuste-Preestablecido](images/edit-output-preset.png)
 
 1. Haga clic en **Listo**.
