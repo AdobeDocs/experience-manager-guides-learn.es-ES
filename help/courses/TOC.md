@@ -2,27 +2,27 @@
 user-guide-title: Tutoriales de Adobe Experience Manager Guides
 user-guide-description: Una colección de vídeos para Adobe Experience Manager Guides.
 breadcrumb-title: Tutoriales para AEM Guides
-source-git-commit: b78894069aa2b1279365d716332b5f6e2e3be865
+source-git-commit: 2f11a068afaa2941e437ee8b0a735a8c7e69784c
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '130'
 ht-degree: 16%
 
 ---
 
 
-# Tutorials de [!DNL Adobe Experience Manager Guides] {#videos}
+# Tutoriales para [!DNL Adobe Experience Manager Guides] {#videos}
 
 + [[!DNL AEM Guides] vídeos](overview.md)
 + Introducción a [!DNL AEM Guides] {#getting-started}
    + [Información general sobre la introducción](./course-1/overview.md)
-   + [AEM Comprender la interfaz de usuario de](./course-1/understanding-the-aem-user-interface.md)
+   + [Comprender la interfaz de usuario de AEM](./course-1/understanding-the-aem-user-interface.md)
    + [Creación y estructuración de contenido](./course-1/creating-and-structuring-content.md)
    + [Trabajo con imágenes](./course-1/working-with-images.md)
    + [Vínculo a sitios web](./course-1/linking-to-websites.md)
    + [Trabajo con listas](./course-1/working-with-lists.md)
    + [Contenido de versión](./course-1/versioning-content.md)
    + [Creación de un mapa](./course-1/creating-a-map.md)
-   + [Salida predeterminada de Publish](./course-1/publishing-default-output.md)
+   + [Publicar salida predeterminada](./course-1/publishing-default-output.md)
    + [Resumen](./course-1/recap.md)
 + Generación de resultados con [!DNL AEM Guides] {#output-generation}
    + [Información general de generación de salida](./course-2/overview.md)
@@ -38,6 +38,7 @@ ht-degree: 16%
    + [Resumen de creación](./course-3/overview.md)
    + [Preferencias de usuario, Configuración del editor y Barras de herramientas del editor](./course-3/user-settings-preferences-toolbars.md)
    + [Perfiles de carpeta](./course-3/folder-profiles.md)
+   + [Convertir configuración de IU](./course-3/conver-ui-config.md)
    + [Configuración del editor](./course-3/editor-configuration.md)
    + [Paneles](./course-3/panels.md)
    + [Vista Esquema](./course-3/outline-view.md)
