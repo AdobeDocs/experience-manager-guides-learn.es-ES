@@ -67,7 +67,7 @@ AEM El administrador puede cambiar la configuración para que el diccionario de 
 
    ![Creación de nuevo archivo de diccionario](images/lesson-11/new-dictionary-file.png)
 
-   c. Asigne un nombre al archivo _**user_dictionary.txt**_.
+   c. Asigne un nombre al archivo _&#x200B;**user_dictionary.txt**&#x200B;_.
 
    ![Texto del diccionario de usuario](images/lesson-11/user-dictionary.png)
 

@@ -222,7 +222,7 @@ Propiedades del archivo muestra información adicional sobre todo el tema abiert
 
 1. Abra un tema en el Editor.
 
-1. Haga clic en el icono [!UICONTROL  **Propiedades del archivo**] en el panel derecho.
+1. Haga clic en el icono [!UICONTROL &#x200B; **Propiedades del archivo**] en el panel derecho.
 
    ![Icono de propiedades de archivo](images/lesson-5/file-properties-icon.png)
 
