@@ -2,9 +2,9 @@
 title: Configuración del editor de AEM Guides
 description: Personalizar configuraciones de JSON y convertir configuraciones de interfaz de usuario para el nuevo Editor de AEM Guides.
 exl-id: bb047962-0e2e-4b3a-90c1-052a2a449628
-source-git-commit: efdb02d955e223783fc1904eda8d41942c1c9ccf
+source-git-commit: 1ed48d543161be88becad9c0cd58014323aeda47
 workflow-type: tm+mt
-source-wordcount: '1197'
+source-wordcount: '1303'
 ht-degree: 0%
 
 ---
@@ -405,6 +405,94 @@ El siguiente fragmento muestra el botón **Exportar como PDF** con escenario de 
 Además, el botón **Exportar como PDF** con el escenario de desbloqueo se puede ver en el siguiente fragmento.
 
 ![Exportar como PDF](images/reuse/unlock.png)
+
+### Personalice las opciones que aparecen en la lista desplegable Menú de la barra de herramientas del Editor
+
+Puede anexar, ocultar, reemplazar y agregar opciones personalizadas en la lista desplegable Menú con los siguientes ejemplos.
+
+#### Adjuntando
+
+Se añade una opción en la lista desplegable Menú. Aquí adjuntamos **botón de menú personalizado** en las opciones de menú
+
+```json
+{
+        "icon": "specialCharacter",
+        "title": "Custom menu button",
+        "on-click": "$$AUTHOR_INSERT_SYMBOL",
+        "targetEditor": {
+          "editor": [
+            "ditamap"
+          ],
+          "mode": [
+            "author"
+          ]
+        },
+        "target": {
+          "key": "label",
+          "value": "Version label",
+          "viewState": "append"
+        }
+      }
+```
+
+#### Sustituyendo
+
+Reemplazar una opción que aparece en la lista desplegable Menú. Aquí reemplazamos **Crear tarea de revisión** por **botón de menú personalizado 3**.
+
+```json
+{
+        "icon": "specialCharacter",
+        "title": "Custom menu button 3",
+        "on-click": "$$AUTHOR_INSERT_SYMBOL",
+        "target": {
+          "key": "label",
+          "value": "Create review task",
+          "viewState": "replace"
+        }
+
+      }
+```
+
+#### Ocultación
+
+Ocultar una opción que aparece en la lista desplegable Menú. Aquí estamos ocultando la opción **Buscar y reemplazar** del menú.
+
+```json
+{
+        "hide": true,
+        "target": {
+          "key": "label",
+          "value": "Find and replace",
+          "viewState": "replace"
+        }
+      }
+```
+
+#### Adición de la opción personalizada en el submenú
+
+Adición de una opción en el submenú dentro de la lista desplegable Menú.
+
+```json
+{
+        "icon": "viewAllTags",
+        "title": "Toggle Tags View Goziamasu",
+        "key": "AUTHOR_TOGGLE_TAG_VIEW",
+        "target": {
+          "key": "label",
+          "value": "Track changes",
+          "viewState": "replace"
+        },
+        "targetEditor": {
+          "documentType": [
+            "dita"
+          ],
+          "mode": [
+            "author"
+          ]
+        }
+
+      }
+```
 
 ## Cómo cargar archivos JSON personalizados
 
