@@ -9,6 +9,6 @@ ht-degree: 0%
 
 Los archivos de la sección &quot;tutoriales&quot; ahora se encuentran en el repositorio `experience-manager-guides.en`:
 
-<https://git.corp.adobe.com/AdobeDocs/experience-manager-guides.en>
+<https://git.corp.adobe.com/AdobeDocs/experience-manager-guides.es-ES>
 
 Este repositorio de aprendizaje automático solo debe incluir el contenido de vídeo. Toda la documentación del producto está ahora en el otro repositorio.
