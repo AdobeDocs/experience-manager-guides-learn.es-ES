@@ -2,7 +2,7 @@
 title: Crear un mapa en  [!DNL AEM Guides]
 description: Aprenda a crear un mapa en  [!DNL Adobe Experience Manager Guides]
 exl-id: e38a7fd5-2a29-4248-8e8f-e6a87e1eae9c
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+source-git-commit: 9e3650f4711ca49b923baf445c36d5b460daf70b
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 1%
@@ -10,6 +10,8 @@ ht-degree: 1%
 ---
 
 # Crear un mapa
+
+{{test}}
 
 Un mapa es una herramienta organizativa que permite añadir y organizar la información en una estructura jerárquica. Esta tarea muestra cómo crear un mapa y organizar el contenido del mapa.
 
@@ -22,9 +24,9 @@ Puede descargar archivos DITA de ejemplo desde aquí:
 
 ## Cargar componentes de asignación
 
-AEM Si lo desea, puede cargar archivos de muestra locales en la interfaz de usuario de para obtener un conjunto de materiales más completo.
+Si lo desea, puede cargar archivos de muestra locales en AEM para obtener un conjunto de materiales más completo.
 
-1. AEM Arrastre y suelte cualquier archivo local en la barra de herramientas para cargarlo.
+1. Arrastre y suelte los archivos locales en AEM para cargarlos.
 1. Repita el proceso según sea necesario para cualquier archivo, incluidas imágenes y temas.
 
 ## Creación de un mapa
