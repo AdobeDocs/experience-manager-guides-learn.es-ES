@@ -2,7 +2,7 @@
 title: Crear un mapa en  [!DNL AEM Guides]
 description: Aprenda a crear un mapa en  [!DNL Adobe Experience Manager Guides]
 exl-id: e38a7fd5-2a29-4248-8e8f-e6a87e1eae9c
-source-git-commit: 9e3650f4711ca49b923baf445c36d5b460daf70b
+source-git-commit: 66d6cfd4a73459f70dd33e86bd41c8b311fe7f8a
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 1%
@@ -10,8 +10,6 @@ ht-degree: 1%
 ---
 
 # Crear un mapa
-
-{{test}}
 
 Un mapa es una herramienta organizativa que permite añadir y organizar la información en una estructura jerárquica. Esta tarea muestra cómo crear un mapa y organizar el contenido del mapa.
 
