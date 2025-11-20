@@ -20,4 +20,4 @@ En este conjunto de tutoriales, aprenderá a hacer lo siguiente:
 - [Trabajar con listas numeradas y con viñetas](working-with-lists.md)
 - [Versión de su contenido](versioning-content.md)
 - [Crear y organizar un mapa](creating-a-map.md)
-- [Publish AEM ha asignado un mapa como sitio y PDF de la](publishing-default-output.md)
+- [Publicar un mapa como sitio de AEM y PDF](publishing-default-output.md)

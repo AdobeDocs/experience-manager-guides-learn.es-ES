@@ -16,7 +16,7 @@ En este conjunto de tutoriales, aprenderá a hacer lo siguiente:
 - [Comprender el tablero de mapas](./introduction-to-the-map-dashboard.md)
 - [Trabajar con informes](./working-with-reports.md)
 - [Crear y publicar con líneas de base](./creating-and-publishing-with-baselines.md)
-- [Publish con condiciones](./publishing-with-conditions.md)
+- [Publicar con condiciones](./publishing-with-conditions.md)
 - [Comprender los ajustes preestablecidos de salida](./output-presets.md)
 - [Solucionar errores de publicación](./troubleshooting-publishing-errors.md)
 - [Publicación en lotes](./bulk-publishing.md)

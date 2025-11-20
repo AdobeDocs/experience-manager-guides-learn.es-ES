@@ -5,7 +5,7 @@ breadcrumb-title: Tutoriales para AEM Guides
 source-git-commit: 2f11a068afaa2941e437ee8b0a735a8c7e69784c
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 16%
+ht-degree: 22%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 16%
    + [Publicación masiva](./course-2/bulk-publishing.md)
    + [Resumen](./course-2/recap.md)
 + Creando con el editor [!DNL AEM Guides] {#advanced-user-guide}
-   + [Resumen de creación](./course-3/overview.md)
+   + [Información general sobre la creación](./course-3/overview.md)
    + [Preferencias de usuario, Configuración del editor y Barras de herramientas del editor](./course-3/user-settings-preferences-toolbars.md)
    + [Perfiles de carpeta](./course-3/folder-profiles.md)
    + [Convertir configuración de IU](./course-3/conver-ui-config.md)
