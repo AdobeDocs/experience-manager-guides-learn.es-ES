@@ -49,7 +49,7 @@ Un error puede ser menor y dar como resultado una nota simple para hacerle saber
 
 El archivo de registro generado se puede abrir para su revisión.
 
-1. En la ficha **Salidas**, haga clic en la fecha y hora bajo Generado a las.****
+1. En la ficha **Salidas**, haga clic en la fecha y hora bajo Generado a las.**&#x200B;**
 
    ![registro de errores](images/error-log.png)
 
