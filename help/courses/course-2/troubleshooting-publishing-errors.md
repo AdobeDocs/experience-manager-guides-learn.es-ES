@@ -2,9 +2,9 @@
 title: Solución de problemas de publicación
 description: Solucionar problemas de publicación en  [!DNL Adobe Experience Manager Guides]
 exl-id: b37ea3e7-59cf-4fc5-8fae-e1fadd26f8d8
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+source-git-commit: 4e0a32263d6363e367685213fe3e524cd0f6965e
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ Un error puede ser menor y dar como resultado una nota simple para hacerle saber
 
 El archivo de registro generado se puede abrir para su revisión.
 
-1. En la ficha **Salidas**, haga clic en la fecha y hora bajo Generado a las.**&#x200B;**
+1. En la ficha **Salidas**, haga clic en la fecha y hora bajo Generado a las.****
 
    ![registro de errores](images/error-log.png)
 
@@ -71,36 +71,28 @@ Según el tipo de error, la resolución puede ser simple o compleja. Puede ser c
 
 * Referencia de ruta de archivo con nombre incorrecto
 
-      Los autores pueden actualizar la referencia de ruta de acceso en el documento de origen.
-     
-  
+  Los autores pueden actualizar la referencia de ruta en el documento de origen.
+
 * Carpeta con nombre incorrecto
 
-      Los autores pueden actualizar el nombre de la carpeta o mover archivos según sea necesario.
-     
-  
+  Los autores pueden actualizar el nombre de la carpeta o mover archivos según sea necesario.
+
 * Falta el gráfico o el archivo
 
-      Los autores pueden cargar un gráfico o archivo que falta, cambiar el nombre de un gráfico o archivo o mover un gráfico o archivo
-     
-  
+  Los autores pueden cargar un gráfico o archivo que falte, cambiar el nombre de un gráfico o archivo o mover un gráfico o archivo
+
 * Referencia de contenido configurada incorrectamente
 
-      Los autores pueden corregir la ubicación del contenido al que se hace referencia o cambiar la ruta de acceso a la referencia de contenido.
-     
-  
+  Los autores pueden corregir la ubicación del contenido al que se hace referencia o cambiar la ruta a la referencia de contenido.
+
 * Referencia cruzada rota
 
-      Los autores pueden corregir la ubicación a la que apunta la referencia cruzada, o cambiar el nombre o las propiedades del archivo de destino
-     
-  
+  Los autores pueden corregir la ubicación a la que apunta la referencia cruzada o cambiar el nombre o las propiedades del archivo de destino
+
 * Errores en los valores de un atributo (por ejemplo, una cadena en lugar de un número)
 
-      Los autores pueden actualizar el atributo a un valor correcto o los administradores pueden actualizar el sistema para admitir nuevos valores.
-     
-  
+  Los autores pueden actualizar el atributo a un valor correcto o los administradores pueden actualizar el sistema para que admita nuevos valores.
+
 * Configuración incorrecta de los componentes utilizados por [!DNL AEM Guides]
 
-      Los administradores pueden actualizar la instalación del sistema, sus componentes o los permisos.
-     
-  
+  Los administradores pueden actualizar la instalación del sistema, sus componentes o los permisos.
