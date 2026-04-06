@@ -2,16 +2,16 @@
 title: Publicación masiva
 description: Publicación masiva en  [!DNL Adobe Experience Manager Guides]
 exl-id: b277e846-ef71-47ec-a66c-ac9d392d53e0
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+source-git-commit: 4e0a32263d6363e367685213fe3e524cd0f6965e
 workflow-type: tm+mt
-source-wordcount: '371'
-ht-degree: 3%
+source-wordcount: '372'
+ht-degree: 4%
 
 ---
 
 # Publicación masiva
 
-Al publicar, a menudo se necesita más de un tipo de documentación. Con Colecciones de mapas puede controlar el número y los tipos de salida que se ensamblarán y generarán y poner en marcha la publicación masiva. El panel de Publish le permite ver los trabajos de publicación activos. El tablero de Publish por lotes permite activar colecciones por lotes.
+Al publicar, a menudo se necesita más de un tipo de documentación. Con Colecciones de mapas puede controlar el número y los tipos de salida que se ensamblarán y generarán y poner en marcha la publicación masiva. El panel Publicar permite ver los trabajos de publicación activos. El tablero de publicación en lote permite activar colecciones de forma masiva.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338985?quality=12&learn=on)
 
@@ -61,25 +61,24 @@ Con Colecciones de mapas, puede controlar los tipos de salida que se generarán 
 
 1. Revise el resultado.
 
-## Visualización de trabajos de publicación activos en el panel de Publish
+## Visualización de trabajos de publicación activos en el panel de publicación
 
-El Tablero de Publish le permite ver las
+El Tablero de publicación permite ver las páginas activas
 trabajos de publicación. Muestra una lista dinámica de mapas y su estado actual. Puede rastrear, administrar o cancelar flujos de trabajo de publicación.
 
 1. En la vista Exploración, haga clic en el icono **Herramientas**.
 
 1. Haga clic en **[!DNL Guides]**.
 
-1. Seleccione el mosaico **Panel de Publish**.
+1. Seleccione el mosaico **Publicar tablero**.
 
-       Si el tablero está en blanco, no se están ejecutando trabajos de publicación.
-       
-   
+   Si el panel está en blanco, no se ejecutan trabajos de publicación.
+
 1. Filtre el panel según sea necesario para ver todos los trabajos de publicación.
 
-### Uso del tablero de Publish por lotes
+### Uso del tablero de publicación en lote
 
-El tablero de Bulk Publish le permite trabajar con colecciones de activación masiva y controlar varios tipos de salida.
+El tablero de publicación en lote permite trabajar con colecciones de activación en lote y controlar varios tipos de resultados.
 
 ### Creación de una colección de activación masiva
 
@@ -87,7 +86,7 @@ El tablero de Bulk Publish le permite trabajar con colecciones de activación ma
 
 1. Haga clic en **[!DNL Guides]**.
 
-1. Seleccione el mosaico **Tablero de Publish en lotes**.
+1. Seleccione el mosaico **Panel de publicación en lotes**.
 
 1. Escriba un Título de colección.
 
@@ -105,9 +104,9 @@ El tablero de Bulk Publish le permite trabajar con colecciones de activación ma
 1. Haga clic en **Listo**.
 1. Cierre la colección de mapas cuando haya terminado.
 
-### Recopilación rápida de Publish a Bulk Activation
+### Publicación rápida de una colección de activación masiva
 
 1. Seleccione un mosaico Colección de activación masiva.
 1. Haga clic en **Abrir**.
 1. Seleccione una o varias asignaciones.
-1. Haga clic en **Quick Publish**.
+1. Haga clic en **Publicación rápida**.
