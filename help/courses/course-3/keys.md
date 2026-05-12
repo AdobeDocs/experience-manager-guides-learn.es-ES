@@ -2,10 +2,18 @@
 title: Claves
 description: Las claves permiten incluir información de variables en al trabajar con DITA en AEM Guides
 exl-id: cb64e094-fe6d-4a5e-8f0e-25ae58aaa2c6
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+TQID: https://experienceleague.adobe.com/Uw-JiHQLITcmUtAuV-SogA6mM73A6EeCi27gUQC-8Eo
+product_v2:
+  - id: fae5e35a-80c9-4b94-9352-1a060a6aab1d
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: f5c2a4bb-71ca-4d7e-8efd-442250e6ba48
+source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
-source-wordcount: '585'
-ht-degree: 0%
+source-wordcount: 585
+ht-degree: 1%
 
 ---
 
@@ -23,19 +31,19 @@ Los archivos de muestra que decida usar para esta lección se proporcionan en el
 
    a. Cargue el archivo zip.
 
-   AEM b. Actualice el entorno de la.
+   b. Actualice el entorno de AEM.
 
-   c. Seleccione el archivo que desea extraer.
+   c. Seleccione el archivo que desee extraer.
 
    ![Seleccionar código postal](images/lesson-9/select-zip.png)
 
-   d. Haz clic en [!UICONTROL **Extraer archivo**] en la barra de herramientas superior.
+   d. Haga clic en [!UICONTROL **Extraer archivo**] en la barra de herramientas superior.
 
    ![Barra de herramientas](images/lesson-9/extract-archive.png)
 
-   e. En el cuadro de diálogo, elija la ubicación específica de los archivos que desea extraer, como una carpeta denominada Claves.
+   e. En el cuadro de diálogo, elija la ubicación específica para los archivos que se extraerán, como una carpeta llamada Claves.
 
-   f. Haz clic en [!UICONTROL **Siguiente**].
+   f. Haga clic en [!UICONTROL **Siguiente**].
 
    g. Omita los conflictos, ya que no existirán para contenido que nunca se haya cargado antes.
 
@@ -85,7 +93,7 @@ Las claves se han resuelto.
 
 1. Inserte una nueva definición de clave.
 
-   a. Haga clic en una ubicación válida del mapa.
+   a. Haga clic en una ubicación válida en el mapa.
 
    b. Seleccione el icono **Keydef** en la barra de herramientas superior.
 

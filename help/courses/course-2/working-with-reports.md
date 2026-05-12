@@ -2,9 +2,18 @@
 title: Uso de informes
 description: Trabajar con informes en  [!DNL Adobe Experience Manager Guides]
 exl-id: 755506a6-c416-4a8c-8359-8db7e63a90a4
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+TQID: https://experienceleague.adobe.com/k4uvmKzypx6Z29GkMbzV01G62BQp4A3aNDuQYjJDhUI
+product_v2:
+  - id: fae5e35a-80c9-4b94-9352-1a060a6aab1d
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2:
+  - id: a3bd6397-2eb2-4908-a61c-226e26855dca
+  - id: d90290ec-3e61-4ebd-8649-bcafe0836803
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
-source-wordcount: '693'
+source-wordcount: 710
 ht-degree: 0%
 
 ---
@@ -77,14 +86,14 @@ El indicador de línea le mostrará dónde se colocará el tema.
 
 1. Seleccione **Guardar**.
 
-## AEM Generación de una salida del sitio de
+## Generación de una salida del sitio de AEM
 
 1. En el Repositorio, seleccione el icono de puntos suspensivos del mapa para abrir el menú Opciones y, a continuación, **Abrir panel de mapas.**
 
    ![open-map-dashboard.png](images/open-map-dashboard.png)
 
    El tablero de mapas se abre en otra pestaña.
-1. AEM En la pestaña Ajustes preestablecidos de salida, seleccione **Sitio de la**.
+1. En la pestaña Ajustes preestablecidos de salida, seleccione **Sitio de AEM**.
 
    ![aem-site-checkbox](images/aem-site-checkbox.png)
 
@@ -118,7 +127,7 @@ Si faltan imágenes en los archivos, una causa común podría ser que el conteni
 
 1. Seleccione **Cargar**.
 
-Se han cargado las imágenes que faltan. AEM Ahora, una salida del sitio de la nueva generación de datos mostrará estas imágenes, y la pestaña Informes ya no mostrará ningún error de imagen que falte.
+Se han cargado las imágenes que faltan. Ahora, una salida del sitio de AEM recién generada mostrará estas imágenes y la pestaña Informes ya no mostrará ningún error de imagen que falte.
 
 ## Resolución de congresistas rotos
 
@@ -139,4 +148,4 @@ Además de la opción [!UICONTROL Cargar Assets], puede cargar recursos arrastr�
 1. Arrastre y suelte el archivo en la carpeta.
 El archivo se cargará y se resolverá el error de referencia.
 
-Todos los errores se han resuelto. AEM La página Informes indicará que no hay más errores y la generación de un sitio de informes da como resultado una salida completa sin componentes que falten.
+Todos los errores se han resuelto. La página Informes indicará que no hay más errores y la generación de un sitio de AEM da como resultado una salida completa sin componentes faltantes.

@@ -2,9 +2,15 @@
 title: Corrección ortográfica y buscar/reemplazar
 description: Uso de la revisión ortográfica y buscar/reemplazar en AEM Guides
 exl-id: 5f39618d-a919-4d3c-a4de-2896f2d1bf20
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+TQID: https://experienceleague.adobe.com/cSdhulSc30KrwsGh1ldB2yn-8eSLccHBpyD-0S1x1M0
+product_v2:
+  - id: fae5e35a-80c9-4b94-9352-1a060a6aab1d
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: 443
 ht-degree: 1%
 
 ---
@@ -25,7 +31,7 @@ Corregir un error ortográfico
 
 Si no se sugiere la ortografía correcta, siempre puede editar la palabra manualmente.
 
-## AEM Cambiar a comprobación de ortografía de
+## Cambiar a revisión ortográfica de AEM
 
 Es posible que desee utilizar una herramienta de revisión ortográfica que no sea el diccionario predeterminado del explorador.
 
@@ -39,21 +45,21 @@ Es posible que desee utilizar una herramienta de revisión ortográfica que no s
 
    - **Revisión ortográfica del explorador**: la configuración predeterminada en la que la revisión ortográfica utiliza el diccionario integrado del explorador.
 
-   - AEM AEM **revisión ortográfica de la**: use esto para crear una lista de palabras personalizada usando el diccionario personalizado de la aplicación de escritura de la aplicación.
+   - **Corrección ortográfica de AEM**: utilícela para crear una lista de palabras personalizada con el diccionario personalizado de AEM.
 
-1. AEM Elija **Corrección ortográfica de la**.
+1. Elija **Corrección ortográfica de AEM**.
 
 1. Haga clic en [!UICONTROL **Guardar**].
 
 Configurar un diccionario personalizado
 
-AEM El administrador puede cambiar la configuración para que el diccionario de la aplicación reconozca palabras personalizadas, como nombres de empresas.
+El administrador puede cambiar la configuración para que el diccionario de AEM reconozca palabras personalizadas como nombres de empresas.
 
 1. Vaya al panel **Herramientas**.
 
 1. Inicie sesión en **CRXDE Lite**.
 
-   AEM ![Icono de CRXDE Lite de IU de](images/lesson-11/crxde-lite.png)
+   ![Icono CRXDE Lite de IU de AEM](images/lesson-11/crxde-lite.png)
 
 1. Vaya al nodo **_/apps/fmdita/config_**.
 
@@ -71,7 +77,7 @@ AEM El administrador puede cambiar la configuración para que el diccionario de 
 
    ![Texto del diccionario de usuario](images/lesson-11/user-dictionary.png)
 
-   d. Haz clic en [!UICONTROL **Aceptar**].
+   d. Haga clic en [!UICONTROL **OK**].
 
 1. Abra el archivo.
 
@@ -81,7 +87,7 @@ AEM El administrador puede cambiar la configuración para que el diccionario de 
 
 1. Cierre el archivo.
 
-AEM Es posible que los autores tengan que reiniciar su sesión del Editor Web para obtener la lista de palabras personalizada actualizada en el Diccionario de palabras de la aplicación de la aplicación de la aplicación de la aplicación de código de la aplicación de la aplicación de.
+Es posible que los autores tengan que reiniciar su sesión del Editor Web para obtener la lista de palabras personalizada actualizada en el Diccionario AEM.
 
 ## Buscar y reemplazar en un solo archivo
 

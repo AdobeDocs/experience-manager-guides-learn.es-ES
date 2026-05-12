@@ -2,16 +2,22 @@
 title: Flujos de trabajo de creación de contenido simples
 description: Creación de contenido en AEM Guides
 exl-id: e4b8e512-0688-44f7-b981-78af33b57b08
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+TQID: https://experienceleague.adobe.com/fLMRJWYDwHU-0ZbbUQ2kFZ1ZUM4vIwHccPV3q-pkn0I
+product_v2:
+  - id: fae5e35a-80c9-4b94-9352-1a060a6aab1d
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
-source-wordcount: '719'
+source-wordcount: 720
 ht-degree: 1%
 
 ---
 
 # Flujos de trabajo de creación de contenido simple
 
-El editor de AEM Guides tiene varios métodos abreviados que simplifican el flujo de trabajo de creación de contenido. Estos métodos abreviados permiten a los usuarios agregar y modificar rápidamente imágenes, trabajar con varios temas a la vez, corregir errores, descargar PDF de temas y trabajar con versiones y rótulos.
+El editor de AEM Guides tiene varios métodos abreviados que simplifican el flujo de trabajo de creación de contenido. Estos métodos abreviados permiten a los usuarios agregar y modificar rápidamente imágenes, trabajar con varios temas a la vez, corregir errores, descargar PDF de temas y trabajar con versiones y etiquetas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342770?quality=12&learn=on)
 
@@ -27,7 +33,7 @@ Las imágenes se pueden agregar directamente desde una unidad local.
 
 1. Cambie el nombre de la imagen por algo representativo de su propósito.
 
-1. Haga clic en [!UICONTROL **Cargar**]. 
+1. Haga clic en [!UICONTROL **Cargar**].
 
 ## Modificación de una imagen
 
@@ -73,21 +79,21 @@ La vista dividida es útil cuando se comparan temas, se copian y se pegan entre 
 
 El error se ha corregido en el texto del tema.
 
-## Descargar un PDF de temas
+## Descargar un tema en PDF
 
 Es posible que los usuarios deseen descargar un PDF del tema actual para marcar o compartir con otros.
 
 1. Haga clic en [!UICONTROL **Vista previa**] en la parte superior derecha de la pantalla.
 
-1. Haga clic en el [!UICONTROL **PDF**] sobre el tema. Aparecerá un cuadro de diálogo.
+1. Haga clic en el [!UICONTROL **icono de PDF**] sobre el tema. Aparecerá un cuadro de diálogo.
 
    ![Exportación de PDF](images/lesson-15/pdf-export.png)
 
-1. Rellene la información de **Nombre de transformación** o **Argumentos de línea de comandos DITA-OT** si es necesario. Tenga en cuenta que un PDF sigue generando si todos los campos se dejan en blanco.
+1. Rellene la información de **Nombre de transformación** o **Argumentos de línea de comandos DITA-OT** si es necesario. Tenga en cuenta que una PDF sigue generando si todos los campos se dejan en blanco.
 
 1. Haga clic en [!UICONTROL **Descargar**]. El PDF genera.
 
-1. Utilice los iconos disponibles para configurar, descargar o compartir el tema del PDF.
+1. Utilice los iconos disponibles para configurar, descargar o compartir el tema de PDF.
 
 ## Buscar un tema en el repositorio o en el mapa
 

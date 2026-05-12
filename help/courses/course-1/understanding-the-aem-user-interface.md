@@ -1,15 +1,21 @@
 ---
-title: AEM Explicación de la interfaz de usuario de la en  [!DNL AEM Guides]
-description: AEM Explicación de la interfaz de usuario de la en  [!DNL Adobe Experience Manager Guides]
+title: Explicación de la interfaz de usuario de AEM en  [!DNL AEM Guides]
+description: Explicación de la interfaz de usuario de AEM en  [!DNL Adobe Experience Manager Guides]
 exl-id: 955a05ed-92d3-480e-9c6b-a0ff362cc464
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+TQID: https://experienceleague.adobe.com/k69iwbiqIEyFjgOMiBC2gMm1QWqxddSTC1xoRQmJmKQ
+product_v2:
+  - id: fae5e35a-80c9-4b94-9352-1a060a6aab1d
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: 361
 ht-degree: 2%
 
 ---
 
-# AEM Explicación de la interfaz de usuario de
+# Explicación de la interfaz de usuario de AEM
 
 Obtenga información sobre la administración de recursos, archivos y carpetas en el Editor XML para Experience Manager.
 
@@ -18,7 +24,7 @@ Obtenga información sobre la administración de recursos, archivos y carpetas e
 ## Acceso al Editor XML
 
 1. En la pantalla de inicio de sesión, escribe tu nombre de usuario y contraseña, y selecciona **[!UICONTROL Iniciar sesión]**.
-1. AEM Seleccione **[!UICONTROL Editor XML]** de la página de navegación de la.
+1. Seleccione **[!UICONTROL Editor XML]** de la página Navegación de AEM.
 
 ## Vistas del editor XML
 
@@ -71,7 +77,7 @@ Puede elegir entre varias vistas para la interfaz de usuario de Assets que mejor
 | --- | --- |
 | Vista de tarjeta | Muestra cada recurso como un icono |
 | Vista de columna | Muestra los recursos en una estructura de carpetas condensada y ampliable |
-| Vista de lista    | Muestra los recursos en una lista, junto con sus detalles |
+| Vista de lista | Muestra los recursos en una lista, junto con sus detalles |
 
 ## Volver al Editor XML
 

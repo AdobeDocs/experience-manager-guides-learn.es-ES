@@ -2,9 +2,18 @@
 title: Crear y publicar con líneas base
 description: Crear y publicar con líneas de base en  [!DNL Adobe Experience Manager Guides]
 exl-id: 3c229c30-f2e0-4fb0-b60c-7bae60ef1a5b
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+TQID: https://experienceleague.adobe.com/P2NbWdOXSWFs40gpSWNrtDLR3VKofXymN5FlZSQRJ7Y
+product_v2:
+  - id: fae5e35a-80c9-4b94-9352-1a060a6aab1d
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2:
+  - id: a3bd6397-2eb2-4908-a61c-226e26855dca
+  - id: d90290ec-3e61-4ebd-8649-bcafe0836803
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
-source-wordcount: '739'
+source-wordcount: 764
 ht-degree: 2%
 
 ---
@@ -97,11 +106,11 @@ Es posible que desee asignar una nueva etiqueta de forma masiva a todo el conten
 
 La etiqueta se ha agregado a todos los temas.
 
-## AEM Generación de una salida del sitio de la mediante una línea de base
+## Generación de una salida del sitio de AEM mediante una línea de base
 
 1. Vaya a la pestaña Ajustes preestablecidos de salida en el panel de mapas.
 
-1. AEM Seleccione la casilla de verificación Sitio de.
+1. Seleccione la casilla de verificación Sitio de AEM.
 
    ![aem-site-checkbox.png](images/aem-site-checkbox.png)
 
@@ -183,7 +192,7 @@ Puede especificar directamente la versión de un tema utilizado en una línea de
 
 Se han guardado sus cambios. La línea de base utilizará ahora las versiones del tema que haya especificado.
 
-## AEM Creación de un ajuste preestablecido de salida del sitio personalizado
+## Creación de un ajuste preestablecido de salida del sitio AEM personalizado
 
 Es difícil distinguir entre salidas predeterminadas del mismo tipo en la pestaña Output. El uso de un ajuste preestablecido de salida personalizado con un nombre único y fácil de usar le permite solucionar este problema.
 
