@@ -2,9 +2,14 @@
 title: Preferencias de usuario, Configuración del editor y Barras de herramientas del editor
 description: Cambiar las preferencias de usuario y la configuración del editor en AEM Guides
 exl-id: 8cb099e4-d985-4eeb-b1a5-0e372b04d218
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+TQID: https://experienceleague.adobe.com/OA2xVO7uyM-70UZKo4oq37HvbpXkTWKmCmQjGkppF7o
+product_v2: id: fae5e35a-80c9-4b94-9352-1a060a6aab1did: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2: id: ab01a588-7dea-43f2-a699-0b3f128465d6id: afb45297-4313-4f67-818e-bc0b03abe086
+subfeature_v2: id: ad602516-aca3-4247-9ae8-f393d958efa9
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
-source-wordcount: '1169'
+source-wordcount: 1171
 ht-degree: 1%
 
 ---
@@ -149,7 +154,7 @@ La configuración del editor está disponible para los usuarios administrativos.
 
 1. Haga clic en [!UICONTROL **Guardar**].
 
-El diccionario se actualiza. AEM Tenga en cuenta que cambiar a la revisión ortográfica de la le permite utilizar una lista de palabras personalizada.
+El diccionario se actualiza. Tenga en cuenta que cambiar a la revisión ortográfica de AEM le permite utilizar una lista de palabras personalizada.
 
 ## Mostrar y ocultar paneles con Configuración del editor
 
@@ -221,7 +226,7 @@ La pestaña Condition permite configurar varias propiedades.
 
 ## Crear un perfil de publicación en Configuración del editor
 
-Los perfiles de Publish se pueden utilizar para publicar la base de conocimientos. Por ejemplo, Salesforce utiliza una aplicación configurada con una clave de consumidor y un secreto de consumidor. Esta información se puede utilizar para crear un perfil de publicación de Salesforce.
+Los perfiles de publicación se pueden utilizar para publicar la base de conocimiento. Por ejemplo, Salesforce utiliza una aplicación configurada con una clave de consumidor y un secreto de consumidor. Esta información se puede utilizar para crear un perfil de publicación de Salesforce.
 
 1. Haga clic en el icono [!UICONTROL **Configuración del editor**] de la barra de herramientas superior.
 

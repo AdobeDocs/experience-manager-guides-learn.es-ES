@@ -1,11 +1,14 @@
 ---
 title: Condiciones
-description: AEM Trabajar con condiciones en guías de usuario de
+description: Trabajar con condiciones en AEM Guids
 exl-id: 2cb670d9-1a22-47c6-8409-52d1d526010a
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+TQID: https://experienceleague.adobe.com/RmYnleEQKJitdoHoBKuBDRR1LdFcqmMm4lEDqF3E-vY
+product_v2: id: fae5e35a-80c9-4b94-9352-1a060a6aab1did: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
-source-wordcount: '497'
-ht-degree: 1%
+source-wordcount: 498
+ht-degree: 2%
 
 ---
 
@@ -41,7 +44,7 @@ Los archivos de muestra que decida usar para esta lección se proporcionan en el
 
 >[!NOTE]
 >
->NOTA: La configuración de un perfil global puede ser una forma temprana y eficaz de controlar el uso de atributos y valores para seguir una guía de estilo coherente.
+NOTA: La configuración de un perfil global puede ser una forma temprana y eficaz de controlar el uso de atributos y valores para seguir una guía de estilo coherente.
 
 ## Asignar atributos a elementos
 
@@ -67,11 +70,11 @@ El panel Condiciones permite la asignación controlada de emparejamientos de atr
 
    ![Icono de preferencias de usuario](images/lesson-13/user-prefs-icon.png)
 
-   b. Rellene los campos obligatorios en el cuadro de diálogo **Preferencias de usuario**. Por ejemplo:
+   b. Complete los campos obligatorios en el cuadro de diálogo **Preferencias de usuario**. Por ejemplo:
 
    ![Preferencias de usuario](images/lesson-13/user-preferences.png)
 
-   c. Haz clic en [!UICONTROL **Guardar**].
+   c. Haga clic en [!UICONTROL **Guardar**].
 
 1. En el panel de condiciones, expanda los desplegables de Audience and Platform. Tenga en cuenta que las condiciones disponibles son específicas del perfil de la carpeta.
 
@@ -95,15 +98,15 @@ Los mapas de esquema de asunto son una forma especializada de mapa de datos y se
 
    b. Rellene los campos en el cuadro de diálogo **Preferencias de usuario**.
 
-   c. Haga clic en el símbolo de carpeta junto al campo Ruta base para elegir la ruta del archivo deseado.
+   c. Haga clic en el símbolo de carpeta junto al campo Ruta base para elegir la ruta al archivo deseado.
 
    d. Haga clic en [!UICONTROL **Seleccionar**].
 
-   e. Haga clic en el símbolo de clave situado junto al campo **Mapa raíz** para escribir una ruta de acceso.
+   e. Haga clic en el símbolo de clave situado junto al campo **Mapa raíz** para especificar una ruta.
 
    >[!IMPORTANT]
    >
-   >Importante: el mapa raíz seleccionado debe ser el mapa que contenga el esquema de asunto.
+   Importante: el mapa raíz seleccionado debe ser el mapa que contenga el esquema de asunto.
 
    ![Preferencias de usuario](images/lesson-13/user-preferences-2.png)
 
@@ -111,7 +114,7 @@ Los mapas de esquema de asunto son una forma especializada de mapa de datos y se
 
    g. Haga clic en [!UICONTROL **Seleccionar**].
 
-   h. Haz clic en [!UICONTROL **Guardar**].
+   h. Haga clic en [!UICONTROL **Guardar**].
 
 Se ha asignado el esquema de asunto.
 

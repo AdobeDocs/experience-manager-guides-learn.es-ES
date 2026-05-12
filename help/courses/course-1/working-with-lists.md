@@ -2,9 +2,13 @@
 title: Trabajando con listas en  [!DNL AEM Guides]
 description: Trabajando con listas en  [!DNL Adobe Experience Manager Guides]
 exl-id: 2fde90f1-cb78-4953-ae2e-1fdc3c7798a7
-source-git-commit: b5e64512956f0a7f33c2021bc431d69239f2a088
+TQID: https://experienceleague.adobe.com/B4XBG3vXBPAnyiyMDy-773j9brvhK8X5y4AeBM4fdwE
+product_v2: id: fae5e35a-80c9-4b94-9352-1a060a6aab1did: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2: id: a3bd6397-2eb2-4908-a61c-226e26855dca
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: 297
 ht-degree: 0%
 
 ---
@@ -62,7 +66,7 @@ Ahora que ha agregado más contenido al concepto, puede guardar el trabajo como 
 
    >[!NOTE]
    > 
-   > Si el programa está configurado con etiquetas predefinidas, puede seleccionar una de ellas para garantizar un etiquetado coherente.
+   Si el programa está configurado con etiquetas predefinidas, puede seleccionar una de ellas para garantizar un etiquetado coherente.
 
 1. Seleccione **Guardar**.
 

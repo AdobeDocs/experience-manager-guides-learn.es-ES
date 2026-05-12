@@ -2,9 +2,13 @@
 title: Referencias cruzadas y vínculos
 description: Creación de referencias cruzadas y vínculos en AEM Guides
 exl-id: bee7d50f-cbdd-4ac8-b15b-101febc4ae80
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+TQID: https://experienceleague.adobe.com/K55H51fnM7bsR68-HQWbNHrSxHgQBPkM-jnGG-OFIbw
+product_v2: id: fae5e35a-80c9-4b94-9352-1a060a6aab1did: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: f5c2a4bb-71ca-4d7e-8efd-442250e6ba48
+source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: 362
 ht-degree: 0%
 
 ---
@@ -28,7 +32,7 @@ Es posible crear una referencia cruzada externa arrastrando y soltando un tema d
 
    a. Haga clic dentro del elemento.
 
-   b. En el panel Propiedades del contenido, elija **ID** en la lista desplegable Atributo.
+   b. En el panel Propiedades de contenido, elija **ID** en la lista desplegable Atributo.
 
    c. Escriba un nombre lógico en el campo Valor.
 
