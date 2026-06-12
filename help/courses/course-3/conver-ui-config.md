@@ -19,7 +19,7 @@ topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
 source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
-source-wordcount: 1311
+source-wordcount: 1205
 ht-degree: 0%
 
 ---
@@ -356,7 +356,7 @@ Se ha reemplazado el botón **Multimedia** de la barra de herramientas por el bo
 
 De acuerdo con el diseño, la visibilidad del botón se administra por separado para los modos bloqueado y desbloqueado (solo lectura) para mantener una experiencia de usuario clara y controlada. De forma predeterminada, cualquier botón recién agregado está oculto cuando la interfaz está en modo de solo lectura.
 Para que un botón esté visible en modo **solo lectura**, debe especificar un destino que lo coloque en una subsección de la barra de herramientas a la que se pueda acceder incluso cuando la interfaz esté bloqueada.
-Por ejemplo, si especifica el destino como **Descargar como PDF**, puede asegurarse de que el botón aparece en la misma sección que un botón visible existente, por lo que es accesible en modo desbloqueado.
+Por ejemplo, si especifica el destino como **Descargar como PDF**, puede asegurarse de que el botón aparezca en la misma sección que un botón visible existente, por lo que estará accesible en modo desbloqueado.
 
 ```json
 "target": {
