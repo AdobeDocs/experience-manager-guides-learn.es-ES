@@ -3,15 +3,10 @@ title: Valores de salida
 description: Un ajuste preestablecido de salida es una colección de propiedades de publicación que se han asignado a un mapa
 exl-id: b0c64737-48a0-4337-8a7f-35d1deb03366
 TQID: https://experienceleague.adobe.com/Q7ym3RWur26EkvBQq2fUXbKtyVYoNI-Ca2Dgituh-I8
-product_v2:
-  - id: fae5e35a-80c9-4b94-9352-1a060a6aab1d
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-feature_v2:
-  - id: a3bd6397-2eb2-4908-a61c-226e26855dca
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2:
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+product_v2: id: fae5e35a-80c9-4b94-9352-1a060a6aab1did: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2: id: a3bd6397-2eb2-4908-a61c-226e26855dca
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
 source-git-commit: 27ffc636d63300fb2e99903d92cab12f0cfcbb25
 workflow-type: tm+mt
 source-wordcount: 225
@@ -35,7 +30,7 @@ Se muestra un ajuste preestablecido de salida cuando se abre una asignación en 
 
 >[!NOTE]
 >
->NOTA: Algunas de las funciones utilizadas por un ajuste preestablecido de salida pueden depender del desarrollo primero de una línea base o de un ajuste preestablecido de condición. Si es necesario, debe configurarlos con las pestañas adecuadas.
+NOTA: Algunas de las funciones utilizadas por un ajuste preestablecido de salida pueden depender del desarrollo primero de una línea base o de un ajuste preestablecido de condición. Si es necesario, debe configurarlos con las pestañas adecuadas.
 
 1. Seleccione un ajuste preestablecido de salida previsto. Por ejemplo, se puede seleccionar AEM o PDF si el nuevo ajuste preestablecido que se va a crear es para un sitio o para proporcionar contenido de Adobe PDF.
 
