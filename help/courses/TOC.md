@@ -4,7 +4,7 @@ user-guide-description: Una colección de vídeos para Adobe Experience Manager 
 breadcrumb-title: Tutoriales para AEM Guides
 source-git-commit: 2f11a068afaa2941e437ee8b0a735a8c7e69784c
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '131'
 ht-degree: 22%
 
 ---
