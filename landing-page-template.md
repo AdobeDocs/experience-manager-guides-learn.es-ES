@@ -1,17 +1,15 @@
 ---
 title: título de guía
-description: descripción de la guía
+description: descripción de guía
 source-git-commit: b5e64512956f0a7f33c2021bc431d69239f2a088
 workflow-type: tm+mt
-source-wordcount: '34'
+source-wordcount: '36'
 ht-degree: 8%
-
 ---
-
 
 # Información general {#overview}
 
-Una descripción general de 1 a 2 frases del producto en el que se centra esta guía del usuario. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de *xyz*.
+Una descripción general de entre 1 y 2 frases del producto en el que se centra esta guía del usuario. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas características y funcionalidades de *xyz*.
 
 ## Novedades
 
